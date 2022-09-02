@@ -1,0 +1,992 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="13 papers with MLG authors will appear at ICML 2018 in Stockholm, Sweden.
+Matej Balog, Ilya Tolstikhin, and Bernhard Schölkopf
+Differentially Private Database Release via Kernel Mean Embeddings
+Niki Kilbertus, Adrià Gascón, Matt Kusner, Michael Veale, Krishna Gummadi and Adrian Weller" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/post/13-papers-with-mlg-authors-to-appear-at-icml-2018/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/wowchemy.6586d09d8c83aafaf12799d931ab1034.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    <link rel="manifest" href="/mlg.eng.cam.ac.uk/manifest.webmanifest" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/mlg.eng.cam.ac.uk/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/mlg.eng.cam.ac.uk/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/post/13-papers-with-mlg-authors-to-appear-at-icml-2018/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
+  
+  <meta property="og:site_name" content="Cambridge Machine Learning Group RSS2 Feed" />
+  <meta property="og:url" content="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/post/13-papers-with-mlg-authors-to-appear-at-icml-2018/" />
+  <meta property="og:title" content="13 papers with MLG authors to appear at ICML 2018 | Cambridge Machine Learning Group RSS2 Feed" />
+  <meta property="og:description" content="13 papers with MLG authors will appear at ICML 2018 in Stockholm, Sweden.
+Matej Balog, Ilya Tolstikhin, and Bernhard Schölkopf
+Differentially Private Database Release via Kernel Mean Embeddings
+Niki Kilbertus, Adrià Gascón, Matt Kusner, Michael Veale, Krishna Gummadi and Adrian Weller" /><meta property="og:image" content="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_300x300_fit_lanczos_3.png" />
+    <meta property="twitter:image" content="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2018-05-23T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2018-05-23T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/post/13-papers-with-mlg-authors-to-appear-at-icml-2018/"
+  },
+  "headline": "13 papers with MLG authors to appear at ICML 2018",
+  
+  "datePublished": "2018-05-23T00:00:00Z",
+  "dateModified": "2018-05-23T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Authors"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cambridge Machine Learning Group RSS2 Feed",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_192x192_fit_lanczos_3.png"
+    }
+  },
+  "description": "13 papers with MLG authors will appear at ICML 2018 in Stockholm, Sweden.\nMatej Balog, Ilya Tolstikhin, and Bernhard Schölkopf\nDifferentially Private Database Release via Kernel Mean Embeddings\nNiki Kilbertus, Adrià Gascón, Matt Kusner, Michael Veale, Krishna Gummadi and Adrian Weller"
+}
+</script>
+
+  
+
+  
+
+  
+
+
+  <title>13 papers with MLG authors to appear at ICML 2018 | Cambridge Machine Learning Group RSS2 Feed</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="59826feb9222d0b700cd38aeb54aa4e3" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-init.min.1ee5462d74c6c0de1f8881b384ecc58d.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+               
+
+<header class="header--fixed">
+    <div class="top-bar">
+        <div class="top-bar-left">
+            <ul>
+                <li><a href="">Admin</a></li>
+                <li><a href="">Internal wiki</a></li>
+            </ul>
+        </div>
+        <div class="top-bar-right">
+            <ul>
+                <li><a href="">RSS</a></li>
+
+                <li class="nav-item">
+                    <a class="nav-link js-search" href="#" aria-label=""><i class="fas fa-search" aria-hidden="true"></i></a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+        <div class="container-xl">
+
+            
+            <div class="d-none d-lg-inline-flex">
+                <a class="navbar-brand" href="/mlg.eng.cam.ac.uk/%20/%20"><img src="/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_0x70_resize_lanczos_3.png" alt="Cambridge Machine Learning Group RSS2 Feed"
+            
+            ></a>
+            </div>
+             
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="">
+      <span><i class="fas fa-bars"></i></span>
+      </button>  
+            <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+                <a class="navbar-brand" href="/mlg.eng.cam.ac.uk/%20/%20"><img src="/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_0x70_resize_lanczos_3.png" alt="Cambridge Machine Learning Group RSS2 Feed"
+          
+          ></a>
+            </div>
+            
+
+            
+            
+            <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+                
+                <ul class="navbar-nav d-md-inline-flex">
+                         
+                           
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/" ><span>Home</span></a>
+                    </li>
+
+                            
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/about-us" ><span>About us</span></a>
+                    </li>
+
+                          
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/post" ><span>News</span></a>
+                    </li>
+
+                            
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/publication" ><span>Publications</span></a>
+                    </li>
+
+                            
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/people" ><span>Group members</span></a>
+                    </li>
+
+                            
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/contact" ><span>PhD Admissions</span></a>
+                    </li>
+
+                       
+                </ul>
+            </div>
+            
+
+            <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+                        
+
+            </ul>
+
+        </div>
+        
+    </nav>
+</header>
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>13 papers with MLG authors to appear at ICML 2018</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 23, 2018
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>13 papers with MLG authors will appear at ICML 2018 in Stockholm, Sweden.</p>
+<p><em><a href="http://matejbalog.eu/" target="_blank" rel="noopener">Matej Balog</a></em>, Ilya Tolstikhin, and Bernhard Schölkopf</p>
+<p><strong><a href="http://matejbalog.eu/research/database_RKHS_privacy.pdf" target="_blank" rel="noopener">Differentially Private Database Release via Kernel Mean Embeddings</a></strong></p>
+<p>Niki Kilbertus, Adrià Gascón, Matt Kusner, Michael Veale, Krishna Gummadi and <em><a href="http://mlg.eng.cam.ac.uk/adrian/" target="_blank" rel="noopener">Adrian Weller</a></em></p>
+<p><strong>Blind Justice: Fairness with Encrypted Sensitive Attributes.</strong></p>
+<p><em><a href="http://www.eng.cam.ac.uk/profiles/jh2084" target="_blank" rel="noopener">Jiri Hron</a></em>, <em><a href="http://mlg.eng.cam.ac.uk/?portfolio=alex-matthews" target="_blank" rel="noopener">Alexander G. de G. Matthews</a></em> and <em><a href="http://mlg.eng.cam.ac.uk/zoubin/" target="_blank" rel="noopener">Zoubin Ghahramani</a></em></p>
+<p><strong>Variational Bayesian dropout: pitfalls and fixes.</strong></p>
+<p><em><a href="http://mlg.eng.cam.ac.uk/?portfolio=gintare-karolina-dziugaite" target="_blank" rel="noopener">Gintare Karolina Dziugaite</a></em> and Daniel M. Roy</p>
+<p><strong><a href="https://arxiv.org/abs/1712.09376" target="_blank" rel="noopener">Entropy-SGD optimizes the prior of a PAC-Bayes bound</a></strong></p>
+<p>George Tucker, Surya Bhupatiraju, <em><a href="https://sites.google.com/view/gugurus" target="_blank" rel="noopener">Shixiang Gu</a></em>, <em><a href="http://learning.eng.cam.ac.uk/Public/Turner/WebHome" target="_blank" rel="noopener">Richard E. Turner</a></em>, <em><a href="http://mlg.eng.cam.ac.uk/zoubin/" target="_blank" rel="noopener">Zoubin Ghahramani</a></em> and Sergey Levine,</p>
+<p><strong><a href="https://arxiv.org/abs/1802.10031" target="_blank" rel="noopener">The Mirage of Action-Dependent Baselines in Reinforcement Learning</a></strong></p>
+<p>Paavo Parmas, Jan Peters, <em><a href="http://mlg.eng.cam.ac.uk/carl/" target="_blank" rel="noopener">Carl E. Rasmussen</a></em> and Kenji Doya</p>
+<p><strong>PIPPS: Flexible Model-Based Policy Search Robust to the Curse of Chaos</strong></p>
+<p><em><a href="http://franrruiz.github.io/" target="_blank" rel="noopener">Francisco J. R. Ruiz</a></em>, Michalis K. Titsias, Adji B. Dieng, and David M. Blei.</p>
+<p><strong><a href="https://arxiv.org/abs/1802.04220" target="_blank" rel="noopener">Augment and Reduce: Stochastic Inference for Large Categorical Distributions.</a></strong></p>
+<p>Stefan Depeweg, <em><a href="https://jmhl.org/" target="_blank" rel="noopener">Jose Miguel Hernández-Lobato</a></em>, Finale Doshi-Velez and Steffen Udluft</p>
+<p><strong><a href="https://arxiv.org/pdf/1710.07283.pdf" target="_blank" rel="noopener">Decomposition of Uncertainty in Bayesian Deep Learning for Efficient and Risk-sensitive Learning</a></strong></p>
+<p>Giambattista Parascandolo, <em><a href="https://sites.google.com/view/nikikilbertus" target="_blank" rel="noopener">Niki Kilbertus</a></em>, Mateo Rojas-Carulla and Bernhard Schölkopf</p>
+<p><strong><a href="https://arxiv.org/pdf/1712.00961.pdf" target="_blank" rel="noopener">Learning Independent Causal Mechanisms</a></strong></p>
+<p>Krzysztof Choromanski , <em><a href="http://mr504.user.srcf.net/" target="_blank" rel="noopener">Mark Rowland</a></em>, Vikas Sindhwani , <em><a href="http://cbl.eng.cam.ac.uk/Public/Turner/WebHome" target="_blank" rel="noopener">Richard E. Turner</a></em> and <em><a href="http://mlg.eng.cam.ac.uk/adrian/" target="_blank" rel="noopener">Adrian Weller</a></em>.</p>
+<p><strong><a href="https://arxiv.org/abs/1804.02395" target="_blank" rel="noopener">Structured Evolution with Compact Architectures for Scalable Policy Optimization</a></strong></p>
+<p><em><a href="https://tameemadel.wordpress.com/" target="_blank" rel="noopener">Tameem Adel</a></em>, <em><a href="http://mlg.eng.cam.ac.uk/zoubin/" target="_blank" rel="noopener">Zoubin Ghahramani</a></em> and <em><a href="http://mlg.eng.cam.ac.uk/adrian/" target="_blank" rel="noopener">Adrian Weller</a></em></p>
+<p><strong>Discovering Interpretable Representations for Both Deep Generative and Discriminative Models</strong></p>
+<p>Sungsoo Ahn, Misha Chertkov, <em><a href="http://mlg.eng.cam.ac.uk/adrian/" target="_blank" rel="noopener">Adrian Weller</a></em> and Jinwoo Shin</p>
+<p><strong><a href="https://arxiv.org/abs/1803.05104" target="_blank" rel="noopener">Bucket Renormalization for Approximate Inference</a></strong></p>
+<p><em><a href="http://yingzhenli.net/home/en/" target="_blank" rel="noopener">Yingzhen Li and Stephan Mandt</a></em>.</p>
+<p><strong>Disentangled Sequential Autoencoder</strong></p>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/post/13-papers-with-mlg-authors-to-appear-at-icml-2018/&amp;text=13%20papers%20with%20MLG%20authors%20to%20appear%20at%20ICML%202018" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/post/13-papers-with-mlg-authors-to-appear-at-icml-2018/&amp;t=13%20papers%20with%20MLG%20authors%20to%20appear%20at%20ICML%202018" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=13%20papers%20with%20MLG%20authors%20to%20appear%20at%20ICML%202018&amp;body=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/post/13-papers-with-mlg-authors-to-appear-at-icml-2018/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/post/13-papers-with-mlg-authors-to-appear-at-icml-2018/&amp;title=13%20papers%20with%20MLG%20authors%20to%20appear%20at%20ICML%202018" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=13%20papers%20with%20MLG%20authors%20to%20appear%20at%20ICML%202018%20http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/post/13-papers-with-mlg-authors-to-appear-at-icml-2018/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/post/13-papers-with-mlg-authors-to-appear-at-icml-2018/&amp;title=13%20papers%20with%20MLG%20authors%20to%20appear%20at%20ICML%202018" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+    
+  
+    
+  
+    
+    
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © Copyright - <a href="#">Cambridge Machine Learning Group</a> - <a href="#">Privacy policy</a>
+  </p>
+  
+
+
+  
+    <p class="powered-by">
+      
+      
+      
+        
+        
+        
+        
+        
+        
+        Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+      
+    </p>
+  </footer>
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/mlg.eng.cam.ac.uk/js/vendor-bundle.min.46271ef31da3f018e9cd1b59300aa265.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/mlg.eng.cam.ac.uk/en/js/wowchemy.min.a6238d5886fa4a2f7cf92df25709326f.js"></script>
+
+
+
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
