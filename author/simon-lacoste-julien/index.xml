@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Lacoste Julien | Cambridge Machine Learning Group RSS2 Feed</title>
+    <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/simon-lacoste-julien/</link>
+      <atom:link href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/simon-lacoste-julien/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simon Lacoste Julien</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/simon-lacoste-julien/avatar_hu4aec61d506d9ff100bc7366633292ef5_46640_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Simon Lacoste Julien</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/simon-lacoste-julien/</link>
+    </image>
+    
+  </channel>
+</rss>

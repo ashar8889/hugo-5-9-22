@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ali Bahramisharif | Cambridge Machine Learning Group RSS2 Feed</title>
+    <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/ali-bahramisharif/</link>
+      <atom:link href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/ali-bahramisharif/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ali Bahramisharif</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/ali-bahramisharif/avatar_hu4631d38e73fac6f90f1ab2e9ba8526a1_41966_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ali Bahramisharif</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/ali-bahramisharif/</link>
+    </image>
+    
+  </channel>
+</rss>

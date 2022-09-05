@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Duvenaud | Cambridge Machine Learning Group RSS2 Feed</title>
+    <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/david-duvenaud/</link>
+      <atom:link href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/david-duvenaud/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Duvenaud</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/david-duvenaud/avatar_hu91413b146a30c733794ad40d17eb1b6a_43682_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>David Duvenaud</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/david-duvenaud/</link>
+    </image>
+    
+  </channel>
+</rss>

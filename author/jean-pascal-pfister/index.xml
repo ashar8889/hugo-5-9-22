@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean Pascal Pfister | Cambridge Machine Learning Group RSS2 Feed</title>
+    <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/jean-pascal-pfister/</link>
+      <atom:link href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/jean-pascal-pfister/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean Pascal Pfister</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/jean-pascal-pfister/avatar_hu7bf3f3b50b7561b8c29c1b4ee7ebc6e1_34236_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jean Pascal Pfister</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/jean-pascal-pfister/</link>
+    </image>
+    
+  </channel>
+</rss>

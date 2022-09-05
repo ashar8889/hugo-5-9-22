@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew McHutchon | Cambridge Machine Learning Group RSS2 Feed</title>
+    <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/andrew-mchutchon/</link>
+      <atom:link href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/andrew-mchutchon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew McHutchon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/andrew-mchutchon/avatar_hub8d0a85be75d77060633dd9e772391b1_154575_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Andrew McHutchon</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/andrew-mchutchon/</link>
+    </image>
+    
+  </channel>
+</rss>

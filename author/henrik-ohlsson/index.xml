@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henrik Ohlsson | Cambridge Machine Learning Group RSS2 Feed</title>
+    <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/henrik-ohlsson/</link>
+      <atom:link href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/henrik-ohlsson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Henrik Ohlsson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/henrik-ohlsson/avatar_hu92553eaec2ecced6566796f14cb1a407_39194_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Henrik Ohlsson</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/henrik-ohlsson/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,815 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="A highly-customizable Hugo research group theme powered by Wowchemy website builder." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/sara-wade/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/wowchemy.eb2fd1ba96e31226ef7b44230947710b.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+    <link rel="alternate" href="/mlg.eng.cam.ac.uk/author/sara-wade/index.xml" type="application/rss+xml" title="Cambridge Machine Learning Group RSS2 Feed" />
+  
+
+  
+  
+    <link rel="manifest" href="/mlg.eng.cam.ac.uk/manifest.webmanifest" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/mlg.eng.cam.ac.uk/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/mlg.eng.cam.ac.uk/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/sara-wade/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
+  
+  <meta property="og:site_name" content="Cambridge Machine Learning Group RSS2 Feed" />
+  <meta property="og:url" content="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/sara-wade/" />
+  <meta property="og:title" content="Sara Wade | Cambridge Machine Learning Group RSS2 Feed" />
+  <meta property="og:description" content="A highly-customizable Hugo research group theme powered by Wowchemy website builder." /><meta property="og:image" content="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/sara-wade/avatar_hu64b5d3a8e8e86e1fd9808c607d2e8bfd_2552078_270x270_fill_q75_lanczos_center.jpg" />
+    <meta property="twitter:image" content="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/sara-wade/avatar_hu64b5d3a8e8e86e1fd9808c607d2e8bfd_2552078_270x270_fill_q75_lanczos_center.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+  
+
+  
+
+
+
+  
+
+
+  <title>Sara Wade | Cambridge Machine Learning Group RSS2 Feed</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="3d55f1af9642880ab374ca4727275b8c" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-init.min.1ee5462d74c6c0de1f8881b384ecc58d.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+               
+
+<header class="header--fixed">
+    <div class="top-bar">
+        <div class="top-bar-left">
+            <ul>
+                <li><a href="">Admin</a></li>
+                <li><a href="">Internal wiki</a></li>
+            </ul>
+        </div>
+        <div class="top-bar-right">
+            <ul>
+                <li><a href="">RSS</a></li>
+
+                <li class="nav-item">
+                    <a class="nav-link js-search" href="#" aria-label=""><i class="fas fa-search" aria-hidden="true"></i></a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+        <div class="container-xl">
+
+            
+            <div class="d-none d-lg-inline-flex">
+                <a class="navbar-brand" href="/mlg.eng.cam.ac.uk/%20/%20"><img src="/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_0x70_resize_lanczos_3.png" alt="Cambridge Machine Learning Group RSS2 Feed"
+            
+            ></a>
+            </div>
+             
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="">
+      <span><i class="fas fa-bars"></i></span>
+      </button>  
+            <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+                <a class="navbar-brand" href="/mlg.eng.cam.ac.uk/%20/%20"><img src="/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_0x70_resize_lanczos_3.png" alt="Cambridge Machine Learning Group RSS2 Feed"
+          
+          ></a>
+            </div>
+            
+
+            
+            
+            <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+                
+                <ul class="navbar-nav d-md-inline-flex">
+                         
+                           
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/" ><span>Home</span></a>
+                    </li>
+
+                            
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/about-us" ><span>About us</span></a>
+                    </li>
+
+                          
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/post" ><span>News</span></a>
+                    </li>
+
+                            
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/publication" ><span>Publications</span></a>
+                    </li>
+
+                            
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/people" ><span>Group members</span></a>
+                    </li>
+
+                            
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/contact" ><span>PhD Admissions</span></a>
+                    </li>
+
+                       
+                </ul>
+            </div>
+            
+
+            <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+                        
+
+            </ul>
+
+        </div>
+        
+    </nav>
+</header>
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+
+
+
+<section id="profile-page" class="pt-5">
+  <div class="container">
+    
+    
+      
+      
+      
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="avatar avatar-circle"
+           width="270" height="270"
+           src="/mlg.eng.cam.ac.uk/author/sara-wade/avatar_hu64b5d3a8e8e86e1fd9808c607d2e8bfd_2552078_270x270_fill_q75_lanczos_center.jpg" alt="Sara Wade">
+      
+
+      <div class="portrait-title">
+
+        <h2>Sara Wade</h2>
+
+        
+
+        
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+    
+
+    <div class="article-style">
+      <p>I have moved to the University of Warwick! Please visit: <a href="http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/wade" target="_blank" rel="noopener">Dr. Sara Wade</a></p>
+<p><strong>Sara Wade</strong> joined the group as a Research Associate (Postdoc) in November 2012. She received a B.Sc. in Mathematics at the University of Maryland, College Park. In January 2013, she earned her PhD in Statistics from Bocconi University in Milan in January 2013, where she worked on Bayesian nonparametric regression with <a href="http://didattica.unibocconi.eu/mypage/index.php?IdUte=48897&amp;idr=8494&amp;lingua=eng" target="_blank" rel="noopener">Professor Sonia Petrone</a>.</p>
+<p>Her research interests include regression; density estimation; conditional density estimation; mixture models; clustering; feature allocation; (dependent) random measures; Markov Chain Monte Carlo methods; and Bayesian nonparametrics, machine learning, and statistics in general. Applications of interest include the prediction and assessment of Alzheimer’s disease based on neuroimaging data.</p>
+<p>Contact: <a href="mailto:sara.wade@eng.cam.ac.uk">sara.wade@eng.cam.ac.uk</a></p>
+<p><a href="http://mlg.eng.cam.ac.uk/wp/wp-content/uploads/2012/11/CV_WADE_July2015.pdf" target="_blank" rel="noopener">CV</a></p>
+<p><strong>Papers:</strong></p>
+<ul>
+<li>Prestia, A., Caroli, A., Wade, S., van der Flier, W.M., Ossenkoppele, R., Van Berckel, B., Barkhof, F., Teunissen C.E., Wall, A., Carter, S.F., Scholl, M., Choo, I.H., Nordberg, A., Scheltens, P., and Frisoni, G.B. (2015). “Prediction of AD dementia by biomarkers following the NIA-AA and IWG diagnostic criteria in MCI patients from three European memory clinics”. Alzheimer’s &amp; Dementia. link</li>
+<li>Caroli, A., Prestia, A., Wade, S., Chen, K., Ayutyanont, N., Landau, S.M., Madison, C.M., Haense, C., Herholz, K., Reiman, E.M., Jagust, W.J., and Frisoni, G.B. (2014). “Alzheimer’s disease biomarkers as outcome measures for clinical trials in MCI”. Alzheimer’s Disease and Associated Disorders. link</li>
+<li>Antoniano Villalobos I., Wade S., and Walker S. G. (2014). “A Bayesian nonparametric regression model with normalized weights; A study of hippocampal atrophy in Alzheimer’s disease.” Journal of the American Statistical Association, 109:477-490. link</li>
+<li>Wade S., Dunson D., Petrone S., Trippa, L. (2014). “Improving prediction from Dirichlet process mixtures via enrichment.” Journal of Machine Learning Research, 15:1041-1071. link</li>
+<li>Wade S., Walker S. G., and Petrone S. (2014). “A predictive study of Dirichlet process mixture models for curve fitting.” Scandinavian Journal of Statistics, 41:580-605. link</li>
+<li>Wade S., Mongelluzzo S., and Petrone S. (2011). “A enriched conjugate prior for Bayesian nonparametric inference.” Bayesian Analysis, 6:359-386. link</li>
+</ul>
+<p><strong>Submitted Papers:</strong></p>
+<ul>
+<li>Wade, S. and Ghahramani, Z. (2015). Bayesian cluster analysis: Point estimation and credible balls. arXiv:1505.03339.</li>
+</ul>
+<p><strong>Software:</strong></p>
+<ul>
+<li>R package <strong>mcclust.ext</strong> (2015) for point estimation and credible balls to summarize Bayesian clustering models. mcclust.ext_1.0.tar.gz; Manual.</li>
+</ul>
+<p><strong>PhD Thesis:</strong>  “Bayesian nonparametric regression through mixture models” (2013). <a href="http://mlg.eng.cam.ac.uk/wp/wp-content/uploads/2012/11/WADE_PhDthesis.pdf" target="_blank" rel="noopener">pdf</a></p>
+
+    </div>
+
+    <div class="row">
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+    
+  </div>
+</section>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+    
+  
+    
+  
+    
+    
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © Copyright - <a href="#">Cambridge Machine Learning Group</a> - <a href="#">Privacy policy</a>
+  </p>
+  
+
+
+  
+    <p class="powered-by">
+      
+      
+      
+        
+        
+        
+        
+        
+        
+        Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+      
+    </p>
+  </footer>
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/mlg.eng.cam.ac.uk/js/vendor-bundle.min.46271ef31da3f018e9cd1b59300aa265.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/mlg.eng.cam.ac.uk/en/js/wowchemy.min.a6238d5886fa4a2f7cf92df25709326f.js"></script>
+
+
+
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

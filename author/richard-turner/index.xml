@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Turner | Cambridge Machine Learning Group RSS2 Feed</title>
+    <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/richard-turner/</link>
+      <atom:link href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/richard-turner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard Turner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/richard-turner/avatar_hub2b797f7c34c27699b761d30b31a0d39_7882_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Richard Turner</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/richard-turner/</link>
+    </image>
+    
+  </channel>
+</rss>

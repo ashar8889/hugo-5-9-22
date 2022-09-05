@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sara Wade | Cambridge Machine Learning Group RSS2 Feed</title>
+    <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/sara-wade/</link>
+      <atom:link href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/sara-wade/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sara Wade</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/sara-wade/avatar_hu64b5d3a8e8e86e1fd9808c607d2e8bfd_2552078_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sara Wade</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/sara-wade/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel M. Roy | Cambridge Machine Learning Group RSS2 Feed</title>
+    <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/daniel-m.-roy/</link>
+      <atom:link href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/daniel-m.-roy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel M. Roy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_300x300_fit_lanczos_3.png</url>
+      <title>Daniel M. Roy</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/daniel-m.-roy/</link>
+    </image>
+    
+  </channel>
+</rss>

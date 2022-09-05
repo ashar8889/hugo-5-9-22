@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Steinruecken | Cambridge Machine Learning Group RSS2 Feed</title>
+    <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/christian-steinruecken/</link>
+      <atom:link href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/christian-steinruecken/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Steinruecken</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/christian-steinruecken/avatar_hu24222c1191005df48d6c54735402ef0d_46176_270x270_fill_lanczos_center_3.png</url>
+      <title>Christian Steinruecken</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/christian-steinruecken/</link>
+    </image>
+    
+  </channel>
+</rss>

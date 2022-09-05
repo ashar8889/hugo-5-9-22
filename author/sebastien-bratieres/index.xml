@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sébastien Bratières | Cambridge Machine Learning Group RSS2 Feed</title>
+    <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/sebastien-bratieres/</link>
+      <atom:link href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/sebastien-bratieres/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sébastien Bratières</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/sebastien-bratieres/avatar_hu9c2a4587abe577fb30a5609ae5295675_12091_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sébastien Bratières</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/sebastien-bratieres/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carl Edward Rasmussen | Cambridge Machine Learning Group RSS2 Feed</title>
+    <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/carl-edward-rasmussen/</link>
+      <atom:link href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/carl-edward-rasmussen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carl Edward Rasmussen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/carl-edward-rasmussen/avatar_hu0918e8e751c631617b6a4e424e08fc02_9416_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Carl Edward Rasmussen</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/carl-edward-rasmussen/</link>
+    </image>
+    
+  </channel>
+</rss>

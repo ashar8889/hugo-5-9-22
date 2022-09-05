@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Diesenroth | Cambridge Machine Learning Group RSS2 Feed</title>
+    <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/marc-diesenroth/</link>
+      <atom:link href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/marc-diesenroth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marc Diesenroth</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/marc-diesenroth/avatar_hu6361e1ab812cfef824447ec560a3bc30_34135_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Marc Diesenroth</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/marc-diesenroth/</link>
+    </image>
+    
+  </channel>
+</rss>

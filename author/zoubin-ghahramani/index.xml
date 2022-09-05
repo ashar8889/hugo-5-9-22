@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoubin Ghahramani | Cambridge Machine Learning Group RSS2 Feed</title>
+    <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/zoubin-ghahramani/</link>
+      <atom:link href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/zoubin-ghahramani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zoubin Ghahramani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/zoubin-ghahramani/avatar_hu4aca32fb139842869a4f17e67c77d1ff_7775_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zoubin Ghahramani</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/zoubin-ghahramani/</link>
+    </image>
+    
+  </channel>
+</rss>
