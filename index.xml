@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>agfdkgdas</title>
-      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/newpeople/newpeople/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/newpeople/newpeople/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Example Event</title>
       <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
@@ -73,481 +65,109 @@
     </item>
     
     <item>
-      <title>Test Page</title>
-      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/test-page/</link>
+      <title>Cambridge – Tübingen PhD Fellowships in Machine Learning</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/</link>
       <pubDate>Fri, 26 Aug 2022 00:03:42 +0530</pubDate>
-      <guid>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/test-page/</guid>
-      <description>&lt;p&gt;This is test page&lt;/p&gt;
+      <guid>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Cambridge – Tübingen PhD Fellowships in Machine Learning&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The University of Cambridge Machine Learning Group and the Max Planck Institute for Intelligent Systems Empirical Inference Department in Tübingen are two of the world’s leading centres for machine learning research. In 2014, we launched a new and exciting initiative whereby a small group of select PhD candidates are jointly supervised at both institutions. The principal supervisors are Zoubin Ghahramani, Carl Rasmussen, Neil Lawrence, Richard Turner, Jose Miguel Hernandez-Lobato, Adrian Weller and David Krueger at Cambridge University, and Bernhard Schoelkopf and other research group leaders at the Max Planck Institute in Tübingen.&lt;/p&gt;
+&lt;p&gt;This is a unique programme, and admission in the last years was highly competitive. We encourage applications from outstanding candidates with academic backgrounds in Mathematics, Physics, Computer Science, Engineering and related fields, and a keen interest in doing basic research in machine learning and its scientific applications. There are no additional restrictions on the topic of the PhD but for further information on our current research areas please consult our webpages at &lt;a href=&#34;http://mlg.eng.cam.ac.uk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk&lt;/a&gt; and &lt;a href=&#34;http://ei.is.tuebingen.mpg.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ei.is.tuebingen.mpg.de&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The overall duration of the PhD will be four years, with roughly three years spent at one location, and one year spent at the other location, including initial coursework at the University of Cambridge. Successful PhDs will be officially granted by the University of Cambridge.&lt;/p&gt;
+&lt;p&gt;We plan to offer funding for up to two PhD Fellowships covering university tuition fees (at Cambridge EU rates) and a stipend of approximately 17000 Euros (about 14500 GBP) per year. We acknowledge generous financial support from Microsoft, Facebook and Amazon.&lt;/p&gt;
+&lt;p&gt;Applicants from Europe don’t need an employment visa, for those who apply from non-EU countries it is necessary to inform themselves at the embassy of their country about visa procedures.&lt;/p&gt;
+&lt;p&gt;We appreciate that Brexit leads to increased uncertainty when it comes to studying in the UK. Comprehensive information regarding issues surrounding Brexit, such as immigration, fees, and travel, is available on &lt;a href=&#34;https://www.eu.admin.cam.ac.uk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.eu.admin.cam.ac.uk&lt;/a&gt; and updated frequently. In particular, we would like to reassure prospective Cambridge-Tuebingen students that appropriate funding will be available to cover living expenses both in Cambridge and in Tuebingen.&lt;/p&gt;
+&lt;p&gt;Applications to the Cambridge – Tübingen PhD Fellowships should be made by first applying to the Cambridge PhD programme in Advanced Machine Learning as described &lt;a href=&#34;http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/contact/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applicants should also make sure that they apply for “Cambridge Trusts”, “Gates Cambridge”, and “Other Research Councils” funding by ticking the relevant boxes in the application form.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Once you have completed the application to the Cambridge PhD Programme, and before actually submitting it, &lt;strong&gt;you should download the application and send a copy to &lt;a href=&#34;mailto:camtue@is.mpg.de&#34;&gt;camtue@is.mpg.de&lt;/a&gt;. It is important to download the application before submitting it through the academic portal because the application is no longer available once it is submitted.&lt;/strong&gt; Please use the subject line “Cambridge-Tuebingen PhD fellowship” in your email to &lt;a href=&#34;mailto:camtue@is.mpg.de&#34;&gt;camtue@is.mpg.de&lt;/a&gt;. &lt;strong&gt;Please arrange for a cv, a motivation letter, BSc. and MSc. transcripts, and two reference letters of your application to the Cambridge PhD programme in Advanced Machine Learning to be sent also to &lt;a href=&#34;mailto:camtue@is.mpg.de&#34;&gt;camtue@is.mpg.de&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The hard deadline for formal applications is &lt;strong&gt;December 1, 2021 11:59pm AOE.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Interviews will take place in Tübingen from &lt;strong&gt;January 10 to January 11, 2022.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The University of Cambridge is committed in its pursuit of academic excellence to equality of opportunity and to a proactive and inclusive approach to equality, which supports and encourages all under-represented groups, promotes an inclusive culture, and values diversity.&lt;/p&gt;
+&lt;p&gt;The Max-Planck Society is committed to increasing the number of individuals with disabilities in its workforce and therefore encourages applications from such qualified individuals. Furthermore, the Max Planck Society seeks to increase the number of women in those areas where they are underrepresented and therefore explicitly encourages women to apply.&lt;/p&gt;
+&lt;p&gt;We look forward to receiving your applications.&lt;/p&gt;
+&lt;div class =&#34;row&#34;&gt;
+    &lt;div class=&#34;col-lg-4&#34;&gt;
+    &lt;p&gt;Zoubin Ghahramani &lt;/p&gt;
+    &lt;p&gt;University of Cambridge&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-lg-4&#34;&gt;
+    &lt;p&gt;Bernhard Schölkopf&lt;/p&gt;
+    &lt;p&gt;Max Planck Institute for Intelligent Systems&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>test</title>
-      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/test/</link>
-      <pubDate>Thu, 25 Aug 2022 01:40:32 +0530</pubDate>
-      <guid>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/test/</guid>
-      <description>&lt;h3 id=&#34;latest-newshttpmlgengcamacukpage_id771-permanent-link-latest-news&#34;&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?page_id=771&#34; title=&#34;Permanent link: Latest news&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Latest news&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2566&#34; title=&#34;9 papers with MLG authors to appear at ICLR 2020 and AISTATS 2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;9 papers with MLG authors to appear at ICLR 2020 and AISTATS 2020February 23, 2020, 1:37 pm&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;6 papers with MLG authors will appear at ICLR 2020 in Addis Ababa, Ethiopia. Jonathan Gordon*, Wessel Bruinsma*, Andrew Y. K. Foong, James Requeima, Yann Dubois, Richard Turner Convolutional Conditional Neural Processes (oral) Paper Roman Novak, Lechao Xiao, Jiri Hron, Jaehoon Lee, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz Neural Tangents: Fast and Easy […]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2474&#34; title=&#34;10 papers with MLG authors to appear at NeurIPS 2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;10 papers with MLG authors to appear at NeurIPS 2019September 19, 2019, 11:45 am&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;10 papers with MLG authors will appear at NeurIPS 2019 in Vancouver, Canada. James Requeima, Jonathan Gordon, John Bronskill, Sebastian Nowozin, Richard E. Turner Fast and Flexible Multi-Task Classification Using Conditional Neural Adaptive Processes (spotlight) Paper Wenbo Gong, Sebastian Tschiatschek, Richard E. Turner, Sebastian Nowozin, José Miguel Hernández-Lobato, Cheng Zhang Icebreaker: Efficient Information Acquisition with […]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2472&#34; title=&#34;Best Paper Award at ICML 2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Best Paper Award at ICML 2019September 19, 2019, 11:35 am&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Congratulations to our PhD student David R. Burt, Prof. Carl E. Rasmussen and our PhD alumnus Mark van der Wilk (now at PROWLER.io) for receiving a Best Paper Award at ICML 2019 in Long Beach, CA, USA, for their paper Rates of Convergence for Sparse Variational Gaussian Process Regression (Paper)!&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2463&#34; title=&#34;12 papers with MLG authors appeared at ICML 2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;12 papers with MLG authors appeared at ICML 2019September 19, 2019, 11:27 am&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;12 papers with MLG authors appeared at ICML 2019 in Long Beach, CA, USA. David R. Burt, Carl E. Rasmussen and Mark van der Wilk Rates of Convergence for Sparse Variational Gaussian Process Regression (Best Paper Award) Paper Francisco J. R. Ruiz and Michalis K. Titsias A Contrastive Divergence for Combining Variational Inference and MCMC […]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2321&#34; title=&#34;13 papers with MLG authors to appear at ICML 2018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;13 papers with MLG authors to appear at ICML 2018May 23, 2018, 11:23 am&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;13 papers with MLG authors will appear at ICML 2018 in Stockholm, Sweden. Matej Balog, Ilya Tolstikhin, and Bernhard Schölkopf Differentially Private Database Release via Kernel Mean Embeddings Niki Kilbertus, Adrià Gascón, Matt Kusner, Michael Veale, Krishna Gummadi and Adrian Weller Blind Justice: Fairness with Encrypted Sensitive Attributes. Jiri Hron, Alexander G. de G. Matthews […]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2262&#34; title=&#34;Seventeen Recent Papers from MLG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Seventeen Recent Papers from MLGFebruary 18, 2018, 9:47 am&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;INTERNATIONAL CONFERENCE ON LEARNING REPRESENTATIONS, Vancouver. 2018 Yingzhen Li and Richard E. Turner. Gradient Estimators for Implicit Models. Alexander. G. de G. Matthews, Jiri Hron, Mark Rowland, Richard E. Turner, Zoubin Ghahramani. Gaussian Process Behaviour in Wide Deep Neural Networks. David Janz, J. van der Westhuizen , Brooks Paige, M. Kusner and José Miguel Hernández-Lobato […]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2258&#34; title=&#34;Dr Adrian Weller appointed as Programme Director for Artificial Intelligence at The Alan Turing Institute&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Dr Adrian Weller appointed as Programme Director for Artificial Intelligence at The Alan Turing InstituteFebruary 10, 2018, 10:02 am&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;MLG member Adrian Weller has been appointed as the Programme Director for Artificial Intelligence at The Alan Turing Institute. More details can be found here.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2116&#34; title=&#34;Twelve papers with MLG authors to appear at NIPS 2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Twelve papers with MLG authors to appear at NIPS 2017September 18, 2017, 12:21 pm&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;“Convolutional Gaussian Processes.”, Mark van der Wilk, Carl Edward Rasmussen and James Hensman – CHOSEN FOR AN ORAL PRESENTATION. “Data-Efficient Reinforcement Learning in Continuous State-Action Gaussian-POMDPs.”, Rowan McAllister and Carl Edward Rasmussen “Real Time Image Saliency for Black Box Classifiers.” Piotr Dabkowski, Yarin Gal “What Uncertainties Do We Need in Bayesian Deep Learning for Computer […]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2105&#34; title=&#34;Prize winning papers from MLG at ICML 2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Prize winning papers from MLG at ICML 2017August 10, 2017, 3:54 pm&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Several papers from MLG have won prizes at ICML 2017. Congratulations to everyone involved! Main Conference Track Best Paper Honourable Mention Matej Balog, Nilesh Tripuraneni, Zoubin Ghahramani, Adrian Weller Lost relatives of the Gumbel trick ICML Workshop on Human Interpretability in Machine Learning Best paper award Isabel Valera, Melanie Fernandez-Pradier, and Zoubin Ghahramani. General Latent […]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2103&#34; title=&#34;Two Postdoctoral Research Positions Available in the Machine Learning Group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Two Postdoctoral Research Positions Available in the Machine Learning GroupAugust 10, 2017, 3:45 pm&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;We are seeking two highly creative and motivated Research Assistants/Associates to join the Machine Learning Group at the University of Cambridge. The positions are for up to 24 months with a possible extension. Details below! &lt;a href=&#34;http://www.jobs.cam.ac.uk/job/14617/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.jobs.cam.ac.uk/job/14617/&lt;/a&gt; (Closing Date: 7 September 2017) &lt;a href=&#34;http://www.jobs.cam.ac.uk/job/14619/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.jobs.cam.ac.uk/job/14619/&lt;/a&gt; (Closing Date: 7 September 2017) The two positions are funded by Samsung. The […]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2096&#34; title=&#34;Ten papers with MLG authors to appear at ICML 2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ten papers with MLG authors to appear at ICML 2017June 1, 2017, 11:03 am&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ten papers including authors from the Cambridge Machine Learning Group will appear at the International Conference for Machine Learning (ICML) 2017. They are: Li Y. and Gal Y. Dropout inference in Bayesian neural networks with alpha-divergences. Hernández-Lobato J. M., Requeima J., Pyzer-Knapp E. O. and Aspuru-Guzik A. Parallel and Distributed Thompson Sampling for Large-scale Accelerated […]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2073&#34; title=&#34;Alessandro Ialongo awarded Qualcomm Innovation Fellowship&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Alessandro Ialongo awarded Qualcomm Innovation FellowshipMay 12, 2017, 5:16 pm&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;MLG graduate student Alessandro Ialongo has been selected for the 2017 Qualcomm Innovation Fellowship. He was awarded $40,000 for his innovation proposal titled “Learning and Decision-Making for Autonomous Behaviour”. The fellowship also involves the assignment of a Qualcomm researcher as mentor to facilitate close collaboration and interaction with Qualcomm Research &amp;amp; Development.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2067&#34; title=&#34;Three recent papers from MLG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Three recent papers from MLGMay 11, 2017, 3:56 pm&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;We wish to highlight three recent papers led by members from the group. The text can be found on the authors’ personal pages. Mark Rowland, Aldo Pacchiano and Adrian Weller. Conditions beyond treewidth for tightness of higher-order LP relaxations International Conference on Artificial Intelligence and Statistics (AISTATS) 2017 Alexander G. de G. Matthews, Mark van […]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2038&#34; title=&#34;Adrian Weller elected as David MacKay Newton Research Fellow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Adrian Weller elected as David MacKay Newton Research FellowMarch 27, 2017, 9:09 am&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Prof Sir David MacKay was an amazing man, who until recently was part of our group. David was a terrific researcher and teacher in machine learning, and a passionate campaigner for social good through his work on energy. He passed away tragically last year. David was a fellow at Darwin College. With help from the […]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?p=2030&#34; title=&#34;Postdoc position to study Trust and Transparency aspects of Artificial Intelligence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Postdoc position to study Trust and Transparency aspects of Artificial IntelligenceNovember 29, 2016, 2:45 pm&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The Leverhulme Centre for the Future of Intelligence (CFI; &lt;a href=&#34;http://lcfi.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://lcfi.ac.uk/&lt;/a&gt;) and the Machine Learning Group (&lt;a href=&#34;http://mlg.eng.cam.ac.uk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk&lt;/a&gt; ) at the University of Cambridge invite applications for a Postdoctoral Research Associate in the study of trust and transparency in Artificial Intelligence (AI). The appointment will be for 3 years. CFI is a new, highly interdisciplinary research centre […]&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;machine-learning-group--the-university-of-cambridgehttpmlgengcamacukpage_id777-permanent-link-machine-learning-group--the-university-of-cambridge&#34;&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?page_id=777&#34; title=&#34;Permanent link: Machine Learning Group @ The University of Cambridge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning Group @ The University of Cambridge&lt;/a&gt;&lt;/h3&gt;
-&lt;h3 id=&#34;heading&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;Group Members&lt;/p&gt;
-&lt;h3 id=&#34;faculty&#34;&gt;Faculty&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;[
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-crop_rich_turnerv2&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://mlg.eng.cam.ac.uk/wp/wp-content/uploads/2011/09/crop_Rich_Turnerv2-36x36.jpg&#34; alt=&#34;crop_Rich_Turnerv2&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      crop_Rich_Turnerv2
-    &lt;/figcaption&gt;&lt;/figure&gt;
-](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=richard-turner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=richard-turner&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;http://cbl.eng.cam.ac.uk/Public/Turner/Turner&#34;&gt;Richard Turner&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;http://cbl.eng.cam.ac.uk/Public/Turner/Turner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Richard Turner&lt;/a&gt;January 18, 2012, 2:00 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;[
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-crop_carledwardrasmussen&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://mlg.eng.cam.ac.uk/wp/wp-content/uploads/2011/09/crop_CarlEdwardRasmussen-36x36.jpg&#34; alt=&#34;crop_CarlEdwardRasmussen&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      crop_CarlEdwardRasmussen
-    &lt;/figcaption&gt;&lt;/figure&gt;
-](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=carl-rasmussen-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=carl-rasmussen-2&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;http://learning.eng.cam.ac.uk/carl/&#34;&gt;Carl Edward Rasmussen&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;http://learning.eng.cam.ac.uk/carl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carl Edward Rasmussen&lt;/a&gt;December 8, 2011, 2:07 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;[
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-crop_zoubinghahramani&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://mlg.eng.cam.ac.uk/wp/wp-content/uploads/2011/09/crop_ZoubinGhahramani-36x36.jpg&#34; alt=&#34;crop_ZoubinGhahramani&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      crop_ZoubinGhahramani
-    &lt;/figcaption&gt;&lt;/figure&gt;
-](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=zoubin-ghahramani&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=zoubin-ghahramani&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/zoubin/&#34;&gt;Zoubin Ghahramani&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/zoubin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoubin Ghahramani&lt;/a&gt;December 8, 2011, 1:35 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;[
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-josé-miguel-hernández-lobato&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://mlg.eng.cam.ac.uk/wp/wp-content/uploads/2011/09/foto-36x36.jpg&#34; alt=&#34;José Miguel Hernández Lobato&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      José Miguel Hernández Lobato
-    &lt;/figcaption&gt;&lt;/figure&gt;
-](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=jose-miguel-hernandez-lobato&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=jose-miguel-hernandez-lobato&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://jmhl.org/&#34;&gt;José Miguel Hernández Lobato&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;https://jmhl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;José Miguel Hernández Lobato&lt;/a&gt;September 28, 2011, 4:21 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;senior-researchers&#34;&gt;Senior Researchers&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;[
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-img_9727-2b580&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://mlg.eng.cam.ac.uk/wp/wp-content/uploads/2011/09/IMG_9727-2b580.jpg&#34; alt=&#34;IMG_9727-2b580&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      IMG_9727-2b580
-    &lt;/figcaption&gt;&lt;/figure&gt;
-](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=adrian-weller&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=adrian-weller&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/adrian/&#34;&gt;Adrian Weller&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/adrian/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adrian Weller&lt;/a&gt;November 5, 2014, 3:16 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;[
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-hong&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://mlg.eng.cam.ac.uk/wp/wp-content/uploads/2013/03/hong.png&#34; alt=&#34;hong&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      hong
-    &lt;/figcaption&gt;&lt;/figure&gt;
-](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=hong-ge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=hong-ge&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/hong/&#34;&gt;Hong Ge&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/hong/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hong Ge&lt;/a&gt;December 19, 2012, 12:18 am&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;post-docs&#34;&gt;Post-docs&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;[](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=gregor-simm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=gregor-simm&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;http://www.gncs.me/&#34;&gt;Gregor Simm&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;http://www.gncs.me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gregor Simm&lt;/a&gt;April 9, 2019, 5:47 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=john-bronskill&#34; title=&#34;John Bronskill&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;John BronskillOctober 4, 2017, 8:21 pm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-steinruecken_crop&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://mlg.eng.cam.ac.uk/wp/wp-content/uploads/2011/09/Steinruecken_crop.png&#34; alt=&#34;Steinruecken_crop&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Steinruecken_crop
-    &lt;/figcaption&gt;&lt;/figure&gt;
-](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=christian-steinruecken&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=christian-steinruecken&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://q4.github.io/&#34;&gt;Christian Steinruecken&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;https://q4.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christian Steinruecken&lt;/a&gt;November 2, 2012, 8:47 am&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;visitors&#34;&gt;Visitors&lt;/h3&gt;
-&lt;h3 id=&#34;graduate-students&#34;&gt;Graduate Students&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;[](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=james-requeima&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=james-requeima&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;http://jamesr.info&#34;&gt;James Requeima&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;http://jamesr.info&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James Requeima&lt;/a&gt;January 24, 2021, 7:43 am&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=talay-cheema&#34; title=&#34;Talay Cheema&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Talay CheemaDecember 17, 2019, 10:32 am&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=valerii-likhosherstov&#34; title=&#34;Valerii Likhosherstov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Valerii LikhosherstovNovember 19, 2019, 6:35 pm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=elre-oldewage&#34; title=&#34;Elre Oldewage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Elre OldewageOctober 24, 2019, 1:54 pm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=jonathan-so&#34; title=&#34;Jonathan So&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jonathan SoOctober 13, 2019, 7:03 pm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=james-allingham&#34; title=&#34;James Allingham&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;James AllinghamOctober 11, 2019, 9:51 am&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=javier-antoran&#34; title=&#34;Javier Antorán&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Javier AntoránOctober 9, 2019, 5:04 pm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=umang-bhatt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=umang-bhatt&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://umangsbhatt.github.io/&#34;&gt;Umang Bhatt&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;https://umangsbhatt.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Umang Bhatt&lt;/a&gt;October 9, 2019, 1:40 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;[](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=austin-tripp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=austin-tripp&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://www.austintripp.ca/&#34;&gt;Austin Tripp&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;https://www.austintripp.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Austin Tripp&lt;/a&gt;October 8, 2019, 2:09 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;[](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=yen-chen-wu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=yen-chen-wu&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;http://sites.google.com/view/yenchenwu/home&#34;&gt;Yen-Chen Wu&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;http://sites.google.com/view/yenchenwu/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yen-Chen Wu&lt;/a&gt;October 7, 2019, 7:29 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;[](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=david-janz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=david-janz&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;http://djanz.org/&#34;&gt;David Janz&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;http://djanz.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Janz&lt;/a&gt;June 3, 2019, 2:27 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;[](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=erik-a-daxberger&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=erik-a-daxberger&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://edaxberger.github.io&#34;&gt;Erik Daxberger&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;https://edaxberger.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erik Daxberger&lt;/a&gt;March 25, 2019, 2:04 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=ushnish-sengupta&#34; title=&#34;Ushnish Sengupta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ushnish SenguptaDecember 17, 2018, 10:51 pm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=jiri-hron&#34; title=&#34;Jiri Hron&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jiri HronOctober 27, 2018, 11:06 am&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=julius-von-kugelgen&#34; title=&#34;Julius von Kügelgen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-julius-von-kugelgen&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://mlg.eng.cam.ac.uk/wp/wp-content/uploads/2018/10/Julius-von-Kugelgen.jpg&#34; alt=&#34;Julius von Kugelgen&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Julius von Kugelgen
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;strong&gt;Julius von KügelgenOctober 15, 2018, 11:07 am&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-wessel-bruinsma&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://mlg.eng.cam.ac.uk/wp/wp-content/uploads/2018/10/wessel_bruinsma.jpg&#34; alt=&#34;Wessel Bruinsma&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Wessel Bruinsma
-    &lt;/figcaption&gt;&lt;/figure&gt;
-](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=wessel-bruinsma&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=wessel-bruinsma&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://wesselb.github.io/about&#34;&gt;Wessel Bruinsma&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;https://wesselb.github.io/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wessel Bruinsma&lt;/a&gt;October 12, 2018, 7:15 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=andrew-foong-yue-kwang&#34; title=&#34;Andrew Foong Yue Kwang&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Andrew Foong Yue KwangOctober 12, 2018, 1:33 pm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=will-tebbutt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=will-tebbutt&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://willtebbutt.github.io/&#34;&gt;Will Tebbutt&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;https://willtebbutt.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Will Tebbutt&lt;/a&gt;October 12, 2018, 1:09 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=chao-ma&#34; title=&#34;Chao Ma&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Chao MaOctober 12, 2018, 1:07 pm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=ross-clarke&#34; title=&#34;Ross Clarke&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ross ClarkeOctober 12, 2018, 12:11 pm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=david-burt&#34; title=&#34;David Burt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;David BurtOctober 12, 2018, 11:59 am&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=sebastian-ober&#34; title=&#34;Sebastian Ober&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sebastian OberOctober 12, 2018, 11:59 am&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=chaochao-lu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=chaochao-lu&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;http://www.causallu.com/&#34;&gt;Chaochao Lu&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;http://www.causallu.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chaochao Lu&lt;/a&gt;February 26, 2018, 9:59 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=adria-garriga-alonso&#34; title=&#34;Adrià Garriga-Alonso&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Adrià Garriga-AlonsoNovember 27, 2017, 12:09 pm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=wenbo-gong&#34; title=&#34;Wenbo Gong&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Wenbo GongOctober 9, 2017, 8:41 am&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=jonathan-gordon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=jonathan-gordon&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://gordonjo.github.io/&#34;&gt;Jonathan Gordon&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;https://gordonjo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jonathan Gordon&lt;/a&gt;October 5, 2017, 8:25 am&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;[](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=siddharth-swaroop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=siddharth-swaroop&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://siddharthswaroop.github.io/&#34;&gt;Siddharth Swaroop&lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;https://siddharthswaroop.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Siddharth Swaroop&lt;/a&gt;October 4, 2017, 3:24 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=robert-pinsler&#34; title=&#34;Robert Pinsler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Robert PinslerOctober 4, 2017, 2:33 pm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=marton-havasi&#34; title=&#34;Marton Havasi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Marton HavasiOctober 4, 2017, 1:57 pm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=alessandro-davide-ialongo&#34; title=&#34;Alessandro Davide Ialongo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-ai&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://mlg.eng.cam.ac.uk/wp/wp-content/uploads/2017/10/AI_MLG.jpg&#34; alt=&#34;AI&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      AI
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;strong&gt;Alessandro Davide IalongoNovember 9, 2016, 2:26 pm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=john-bradshaw&#34; title=&#34;John Bradshaw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;John BradshawNovember 4, 2016, 12:15 am&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;in-memoriam&#34;&gt;In Memoriam&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;[
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-mackaycrop&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://mlg.eng.cam.ac.uk/wp/wp-content/uploads/2011/09/mackaycrop.jpg&#34; alt=&#34;mackaycrop&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      mackaycrop
-    &lt;/figcaption&gt;&lt;/figure&gt;
-](&lt;a href=&#34;http://mlg.eng.cam.ac.uk/?portfolio=david-j-c-mackay-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk/?portfolio=david-j-c-mackay-2&lt;/a&gt; &amp;ldquo;&lt;a href=&#34;http://www.inference.eng.cam.ac.uk/mackay/&#34;&gt;David J.C. MacKay &lt;/a&gt;&amp;rdquo;)&lt;strong&gt;&lt;a href=&#34;http://www.inference.eng.cam.ac.uk/mackay/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David J.C. MacKay&lt;/a&gt; July 26, 2014, 10:05 pm&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;heading-1&#34;&gt;&lt;/h3&gt;
-&lt;p&gt; Alumni &lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://tameemadel.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tameem Adel (University Lecturer at University of Liverpool)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.cs.ubc.ca/~ascibior/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adam Scibior (postdoc at the University of British Columbia)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://akisatok.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Akisato Kimura (group leader at NTT Communication Science Laboratories)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://gkdz.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gintare Karolina Dziugaite (Fundamental Research Scientist at Element AI)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://scholar.google.ch/citations?user=ZRjM4EgAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mateo Rojas-Carulla (software engineering at Google)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://paulrubenstein.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paul Rubenstein (Machine Learning Research Engineer at Apple in Zurich)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://matejbalog.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matej Balog (research scientist at DeepMind)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://scholar.google.co.uk/citations?user=lWDq-ygAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matthias Bauer (research scientist at DeepMind)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://rpeharz.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robert Peharz (Assistant Professor at Eindhoven University of Technology)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://franrruiz.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Francisco Jesus Rodriguez Ruiz (research scientist at DeepMind)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://prior.info&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kristoffer Stensbo-Smidt (postdoc at Technical University of Denmark)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://yichuan-zhang.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yichuan Zhang (director at Boltzbit Limited)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://enalisnick.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eric Nalisnick (assistant professor at University of Amsterdam)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://sites.google.com/view/nikikilbertus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Niki Kilbertus (group leader at HelmholtzAI in Munich)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://sites.google.com/site/nvcuong92/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cuong V. Nguyen (Applied Scientist, Amazon)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://sites.google.com/corp/view/markrowland&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mark Rowland (Research Scientist, DeepMind)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://scholar.google.co.uk/citations?user=3OFgQKcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexander G. de G. Matthews (Research Scientist, DeepMind)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://sites.google.com/site/manonkok2/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Manon Kok (Assistant Professor, Delft University of Technology)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://sg717.user.srcf.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shixiang (Shane) Gu (Research Scientist, Google Brain)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://yingzhenli.net/home/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yingzhen Li (Research Scientist, Microsoft Research)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://wayve.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amar Shah (CEO and Founder, Wayve)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://mlomeli1.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maria Lomeli Garcia (Research Scientist, Babylon Health)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://sydney.edu.au/business/staff/thang.bui&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thang Bui (Lecturer, University of Sydney)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://uk.linkedin.com/in/mateor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mateo Rojas-Carulla (Research Scientist, Facebook AI Research)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://uk.linkedin.com/in/alexandre-navarro-70687b20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexandre Navarro (Senior Data Scientist, AstraZeneca)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/markvdw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mark van der Wilk (Senior Machine Learning Researcher, Prowler.io)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://people.eecs.berkeley.edu/~rmcallister/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rowan McAllister (Post-Doc, University of California Berkeley)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ivaleram.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Isabel Valera (Group Leader, Max Planck Institute for Intelligent Systems)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/sebastien-bratieres/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sébastien Bratières&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://mlg.eng.cam.ac.uk/yarin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yarin Gal (Associate Professor, University of Oxford)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.robots.ox.ac.uk/~jan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jan-Peter Calliess (Senior Research Fellow, University of Oxford)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://frellsen.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jes Frellsen (Associate Professor, IT University of Copenhagen)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://lopezpaz.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Lopez-Paz (Research Scientist, Facebook AI Research)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://mlg.eng.cam.ac.uk/hoffmanm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matthew W. Hoffman (Research Scientist, Google DeepMind)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://heaukulani.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creighton Heaukulani (Goldman Sachs)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/wade&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sara Wade (Assistant Professor, University of Warwick)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://yutianchen.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yutian Chen (Research Scientist, Google DeepMind)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.cmm.uchile.cl/?cmm_people=felipe-tobar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Felipe Tobar (Research Fellow, University of Chile)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.alexdavies.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex Davies (Software Engineer, Google)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.rogerfrigola.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roger Frigola (Engineering Consultant)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://jamesrobertlloyd.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James R. Lloyd (Head of Data Science, Qlearsite)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.eecs.berkeley.edu/~rabinovich/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maxim Rabinovich (PhD Student, UC Berkeley)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://mlg.eng.cam.ac.uk/konstantina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Konstantina Palla (Research Scientist, Microsoft Research Cambridge)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://scholar.google.com/citations?user=sm1-TZMAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neil M. T. Houlsby (Google Research, Zurich)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://danroy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel M. Roy (Assistant Professor, University of Toronto)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://jmhl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jose Miguel Hernandez-Lobato (Post-Doc, Harvard, now Lecturer, Cambridge)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.cs.toronto.edu/~duvenaud/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Duvenaud (Assistant Professor, University of Toronto)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://people.orie.cornell.edu/andrew/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew G. Wilson (Assistant Professor, Cornell University)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://mlg.eng.cam.ac.uk/~nquadrianto/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Novi Quadrianto (Assistant Professor, University of Sussex)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://cs.stanford.edu/~davidknowles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Knowles (Post-Doc, Stanford University)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://stat.columbia.edu/~porbanz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Orbanz (Assistant Professor, Columbia University)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://quinonero.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joaquin Quiñonero Candela (Director of Engineering, Facebook)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://research.microsoft.com/en-us/people/jvangael/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jurgen Van Gael (Data Science Director, Rangespan, bought by Google, now at Facebook)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://people.seas.harvard.edu/~rpa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ryan P. Adams (Assistant Professor, Harvard University, also at Twitter Cortex)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://webdav.tuebingen.mpg.de/u/karsten/group/index.html?page=employee&amp;amp;employee=Karsten&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Karsten Borgwardt (Professor, ETH Zurich)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://mlg.eng.cam.ac.uk/john/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John P. Cunningham (Assistant Professor, Columbia University)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://wp.doc.ic.ac.uk/sml/person/marc-deisenroth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marc Deisenroth (Lecturer, Imperial College London)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.inference.vc/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ferenc Huszar (Magic Pony, now Machine Learning Research Lead, Twitter Cortex Vx)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://people.csail.mit.edu/finale/new-wiki/doku.php?id=start&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Finale Doshi-Velez (Assistant Professor, Harvard University)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www2.stat.duke.edu/~kheller/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katherine Heller (Assistant Professor, Duke University)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.di.ens.fr/~slacoste/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simon Lacoste-Julien (Researcher, INRIA/Ecole Normale Superior)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://homepages.inf.ed.ac.uk/imurray2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Iain Murray (Reader, University of Edinburgh)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.cs.ubc.ca/~shakirm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shakir Mohamed (DeepMind, bought by Google)&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;http://www.adaptiveagents.org/user/peortega/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pedro Ortega (Postdoc, University of Pennsylvania)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.tsc.uc3m.es/~fernando/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fernando Perez-Cruz (Associate Professor, University Carlos III, Madrid, also at Bell Labs)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.homepages.ucl.ac.uk/~ucgtrbd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ricardo Silva (Lecturer, University College London)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://uk.linkedin.com/in/edward-snelson-a595ab9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ed Snelson (Microsoft Research, now Head of Applied Research, Thread.com)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.cs.cmu.edu/~ftorre/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fernando de la Torre (Associate Professor, Carnegie Mellon University)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://mlg.eng.cam.ac.uk/sinead/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sinead Williamson (Assistant Professor, UT Austin)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://mlg.eng.cam.ac.uk/rdturner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ryan Turner (Northrop Grumman)&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;heading-2&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;Taught Courses&lt;/p&gt;
-&lt;h3 id=&#34;3f3-signal-and-pattern-processinghttpmlgengcamacukteaching3f3&#34;&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/teaching/3f3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3F3: Signal and  Pattern Processing&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Taught by Zoubin Ghahramani. &lt;a href=&#34;http://mlg.eng.cam.ac.uk/teaching/3f3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course web page&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;4f10-statistical-pattern-processinghttpwwwengcamacukteachingcoursesy44f10html&#34;&gt;&lt;a href=&#34;http://www.eng.cam.ac.uk/teaching/courses/y4/4f10.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;4F10: Statistical Pattern Processing&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Taught by Mark Gales. &lt;a href=&#34;http://www.eng.cam.ac.uk/teaching/courses/y4/4f10.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course web page&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;4f13-machine-learninghttpmlgengcamacukteaching4f13&#34;&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/teaching/4f13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;4F13: Machine Learning&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Taught by Zoubin Ghahramani and Carl Rasmussen. &lt;a href=&#34;http://mlg.eng.cam.ac.uk/teaching/4f13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course web page&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;heading-3&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;Previous events&lt;/p&gt;
-&lt;p&gt;The 2009 &lt;a href=&#34;http://mlg.eng.cam.ac.uk/mlss09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning Summer School&lt;/a&gt; was held in Cambridge on August 29th – September 10th.&lt;br&gt;
-&lt;a href=&#34;http://talks.cam.ac.uk/show/index/6983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning Reading Group @ CUED&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://talks.cam.ac.uk/show/index/5397&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning Seminar Group&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://mlg.eng.cam.ac.uk/tutorials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Tutorial Lecture Series on Machine Learning&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://mlg.eng.cam.ac.uk/porbanz/npb-tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Non-Parametric Bayes Tutorial Course (October 9, 16 and 28, 2008)&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;heading-4&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;Bayesian statistics in other labs&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://research.microsoft.com/mlp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Machine Learning and Perception Group&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;@ Microsoft Research Cambridge&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://research.microsoft.com/~cmbishop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chris Bishop&lt;/a&gt; | &lt;a href=&#34;http://research.microsoft.com/~minka&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tom Minka&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Statistical Laboratory&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.statslab.cam.ac.uk/~apd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phil Dawid&lt;/a&gt; | &lt;a href=&#34;http://www.statslab.cam.ac.uk/~rjs57&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Richard Samworth&lt;/a&gt; | &lt;a href=&#34;http://www.statslab.cam.ac.uk/Dept/People/spiegelhalter.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Spiegelhalter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Computer Lab&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.cl.cam.ac.uk/~sbh11&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Holden&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www-sigproc.eng.cam.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Signal Processing and Communications&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;@ CUED&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www-sigproc.eng.cam.ac.uk/~sjg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simon Godsill&lt;/a&gt; | &lt;a href=&#34;http://www-sigproc.eng.cam.ac.uk/~sss40&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sumeetpal Singh&lt;/a&gt;&lt;/p&gt;
+      <title>PhD Programme in Advanced Machine Learning</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning/</link>
+      <pubDate>Fri, 26 Aug 2022 00:03:42 +0530</pubDate>
+      <guid>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning/</guid>
+      <description>&lt;p&gt;The Cambridge Machine Learning Group (MLG) runs a PhD programme in Advanced Machine Learning. The supervisors are &lt;a href=&#34;https://jmhl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jose Miguel Hernandez-Lobato&lt;/a&gt;, &lt;a href=&#34;http://mlg.eng.cam.ac.uk/carl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carl Rasmussen&lt;/a&gt;, &lt;a href=&#34;http://cbl.eng.cam.ac.uk/Public/Turner/Turner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Richard E. Turner&lt;/a&gt;, &lt;a href=&#34;http://mlg.eng.cam.ac.uk/adrian/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adrian Weller&lt;/a&gt;, &lt;a href=&#34;http://mlg.eng.cam.ac.uk/hong/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hong Ge&lt;/a&gt; and &lt;a href=&#34;https://mila.quebec/en/person/david-scott-krueger/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Krueger&lt;/a&gt;. &lt;a href=&#34;http://mlg.eng.cam.ac.uk/zoubin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoubin Ghahramani&lt;/a&gt; is currently on academic leave and not accepting new students at this time.&lt;/p&gt;
+&lt;p&gt;We encourage applications from outstanding candidates with academic backgrounds in Mathematics, Physics, Computer Science, Engineering and related fields, and a keen interest in doing basic research in machine learning and its scientific applications. There are no additional restrictions on the topic of the PhD but for further information on our current research areas please consult our webpages at &lt;a href=&#34;http://mlg.eng.cam.ac.uk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlg.eng.cam.ac.uk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The typical duration of the PhD will be four years.&lt;/p&gt;
+&lt;p&gt;Applicants must formally apply through the &lt;a href=&#34;https://www.graduate.study.cam.ac.uk/applicant-portal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applicant Portal&lt;/a&gt; at the University of Cambridge by the deadline, indicating “PhD in Engineering” as the course (supervisor Hernandez-Lobato, Rasmussen, Turner, and/or  Weller). Applicants that want to apply for University funding need to reply ‘Yes’ to the question ‘Apply for Cambridge Scholarships’. See &lt;a href=&#34;http://www.admin.cam.ac.uk/students/gradadmissions/prospec/apply/deadlines.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.admin.cam.ac.uk/students/gradadmissions/prospec/apply/deadlines.html&lt;/a&gt; for details.  Note that applications will not be complete until all the required material has been uploaded (including reference letters) and we will not be able to see any application until that happens.&lt;/p&gt;
+&lt;p&gt;Gates funding applicants (US or other overseas) need to fill out the dedicated Gates Cambridge Scholarships section later on the form which is sent on to the administrators of Gates funding.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deadline for PhD Application: noon December 2, 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Applications from outstanding individuals may be considered after this time, but applying later may adversely impact your chances for both admission and funding.&lt;/p&gt;
+&lt;h3 id=&#34;further-information-about-completing-the-admissions-forms&#34;&gt;FURTHER INFORMATION ABOUT COMPLETING THE ADMISSIONS FORMS:&lt;/h3&gt;
+&lt;p&gt;The Machine Learning Group is based in the Department of Engineering, not Computer Science.&lt;/p&gt;
+&lt;p&gt;We will assess your application on three criteria:&lt;/p&gt;
+&lt;p&gt;1    &lt;strong&gt;Academic performance&lt;/strong&gt; (make sure to ensure evidence for strong academic achievement e.g. position in year, awards etc.)
+2   &lt;strong&gt;references&lt;/strong&gt; (clearly your references will need to be strong, they should also mention evidence of excellence as quotes will be drawn from them)
+3   &lt;strong&gt;research&lt;/strong&gt; (detail your research experience, especially that which relates to machine learning)&lt;/p&gt;
+&lt;p&gt;You will also need to put together a research proposal. We do not offer individual support for this. It is part of the application assessment, i.e. ascertaining whether you can write about a research area in a sensible way and pose interesting questions. It is not a commitment to what you will work on during your PhD. Most often PhD topics crystallise over the first year. The research proposal should be about 2 pages long and can be attached to your application (you can indicate that your proposal is attached in the 1500 character count Research Summary box). This aspect of the application does not carry a huge amount of weight so do not spend a large amount of time on it. Please also attach a recent CV to your application too.&lt;/p&gt;
+&lt;h3 id=&#34;information-about-the-cambridge-tuebingen-programme&#34;&gt;INFORMATION ABOUT THE CAMBRIDGE-TUEBINGEN PROGRAMME:&lt;/h3&gt;
+&lt;p&gt;We also offer a small number of PhDs on the Cambridge-Tuebingen programme. This stream is for specific candidates whose research interests are well matched to both the machine learning group in Cambridge and the MPI for Intelligent Systems in Tuebingen. For more information about the Cambridge-Tuebingen programme and how to apply see &lt;a href=&#34;http://mlg.eng.cam.ac.uk/?page_id=1458&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. &lt;strong&gt;IMPORTANT: remember to download your application form before you submit so that you can send a copy to the administrators in Tuebingen directly&lt;/strong&gt;. Note that the application deadline for the Cambridge-Tuebingen programme is December 1, 2021 11:59pm AOE.&lt;/p&gt;
+&lt;h2 id=&#34;what-background-do-i-need&#34;&gt;What background do I need?&lt;/h2&gt;
+&lt;p&gt;An ideal background is a top undergraduate or Masters degree in Mathematics, Physics, Computer Science, or Electrical Engineering. You should be both very strong mathematically and have an intuitive and practical grasp of computation. Successful applicants often have research experience in statistical machine learning. Shortlisted applicants are interviewed.&lt;/p&gt;
+&lt;h2 id=&#34;do-you-have-funding&#34;&gt;Do you have funding?&lt;/h2&gt;
+&lt;p&gt;There are a number of funding sources at Cambridge University for PhD students, including for international students. All our students receive partial or full funding for the full three years of the PhD. We do not give preference to “self-funded” students. To be eligible for funding it is important to apply early (see &lt;a href=&#34;https://www.graduate.study.cam.ac.uk/finance/funding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.graduate.study.cam.ac.uk/finance/funding&lt;/a&gt; – current deadlines are 10 October for US students, and 5 December for others). &lt;strong&gt;Also make sure you tick the box on the application saying you wish to be considered for funding!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you are applying to the Cambridge-Tuebingen programme, note that this source of funding will not be listed as one of the official funding sources, but if you apply to this programme, please tick the other possible sources of funding if you want to maximise your chances of getting funding from Cambridge.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-my-likelihood-of-being-admitted&#34;&gt;What is my likelihood of being admitted?&lt;/h2&gt;
+&lt;p&gt;Because we receive so many applications, unfortunately we can’t admit many excellent candidates, even some who have funding. Successful applicants tend to be among the very top students at their institution, have very strong mathematics backgrounds, references, and have some research experience in statistical machine learning.&lt;/p&gt;
+&lt;h2 id=&#34;do-i-have-to-contact-one-of-the-faculty-members-first-or-can-i-apply-formally-directly&#34;&gt;Do I have to contact one of the faculty members first or can I apply formally directly?&lt;/h2&gt;
+&lt;p&gt;It is not necessary, but if you have doubts about whether your background is suitable for the programme, or if you have questions about the group, you are welcome to contact one of the faculty members directly. Due to their high email volume you may not receive an immediate response but they will endeavour to get back to you as quickly as possible. It is important to make your official application to &lt;a href=&#34;http://www.admin.cam.ac.uk/students/gradadmissions/prospec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate Admissions&lt;/a&gt; at Cambridge before the funding deadlines, even if you don’t hear back from us; otherwise we may not be able to consider you.&lt;/p&gt;
+&lt;h2 id=&#34;do-you-take-masters-students-or-part-time-phd-students&#34;&gt;Do you take Masters students, or part-time PhD students?&lt;/h2&gt;
+&lt;p&gt;We generally don’t admit students for a part-time PhD. We also don’t usually admit students just for a pure-research Masters in machine learning , except for specific programs such as the Churchill and Marshall scholarships. However, please do note that we run a one-year taught Master’s Programme: The &lt;a href=&#34;http://www.mlsalt.eng.cam.ac.uk/Main/WebHome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MPhil in Machine Learning, and Machine Intelligence&lt;/a&gt;. You are welcome to apply directly to this.&lt;/p&gt;
+&lt;h2 id=&#34;what-department--course-should-i-indicate-on-my-application-form&#34;&gt;What Department / course should I indicate on my application form?&lt;/h2&gt;
+&lt;p&gt;This machine learning group is in the Department of Engineering. The degree you would be applying for is a PhD in Engineering (not Computer Science or Statistics).&lt;/p&gt;
+&lt;h2 id=&#34;how-long-does-a-phd-take&#34;&gt;How long does a PhD take?&lt;/h2&gt;
+&lt;p&gt;A typical PhD from our group takes 3-4 years. The first year requires students to pass some courses and submit a first-year research report. Students must submit their PhD before the 4th year.&lt;/p&gt;
+&lt;h2 id=&#34;what-research-topics-do-you-have-projects-on&#34;&gt;What research topics do you have projects on?&lt;/h2&gt;
+&lt;p&gt;We don’t generally pre-specify projects for students. We prefer to find a research area that suits the student. For a sample of our research, you can check &lt;a href=&#34;http://mlg.eng.cam.ac.uk/?page_id=381&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;group members’ personal pages&lt;/a&gt; or our &lt;a href=&#34;http://mlg.eng.cam.ac.uk/pub/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;research publications page.&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-are-the-career-prospects-for-phd-students-from-your-group&#34;&gt;What are the career prospects for PhD students from your group?&lt;/h2&gt;
+&lt;p&gt;Students and postdocs from the group have moved on to excellent positions both in academia and industry. Have a look at our list of recent alumni on the &lt;a href=&#34;http://mlg.cam.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning group webpage&lt;/a&gt;. Research expertise in machine learning is in very high demand these days.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral Research Associate/Assistant Positions in Machine Learning</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/postdoctoral_research_associate/</link>
+      <pubDate>Fri, 26 Aug 2022 00:03:42 +0530</pubDate>
+      <guid>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/postdoctoral_research_associate/</guid>
+      <description>&lt;h2 id=&#34;these-positions-are-now-closed&#34;&gt;THESE POSITIONS ARE NOW CLOSED&lt;/h2&gt;
+&lt;p&gt;We are seeking up to three highly creative and motivated Postdoctoral Research Associates/Assistants to join the Machine Learning Group in the Department of Engineering, University of Cambridge, UK.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Post 1:&lt;/strong&gt; Building an Automated Statistician. This postdoc will be working with Zoubin Ghahramani in collaboration with Google, and should have extensive experience in Bayesian model comparison and scalable approximate inference.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Post 2:&lt;/strong&gt; Probabilistic Programming and Bayesian Nonparametrics. This postdoc will be working with Zoubin Ghahramani in collaboration with MIT and Oxford and should have research experience in these two areas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Post 3:&lt;/strong&gt; Machine Learning for Autonomous Systems and Control. This postdoc will be working jointly with the Control Group at Cambridge, in a team including Carl Rasmussen, Jan Maciejowski, and Zoubin Ghahramani.  This project will focus on bridging Bayesian inference for machine learning, reinforcement learning methods, and Model Predictive Control methods for autonomous and intelligent systems.&lt;/p&gt;
+&lt;p&gt;The successful applicants will have or be near completing a PhD in computer science, engineering, statistics or a related area, and will have extensive research experience and a strong publication record in statistics, probability, machine learning and/or control theory. Preference will be given to applicants with some experience in large-scale modelling with Bayesian methods, non-parametric Bayesian models, approximate inference and experience with reinforcement learning or control.&lt;/p&gt;
+&lt;p&gt;To apply complete form CHRIS/6 (&lt;a href=&#34;http://www.admin.cam.ac.uk/offices/hr/forms/chris6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.admin.cam.ac.uk/offices/hr/forms/chris6/&lt;/a&gt;) and send with your CV which should include a list of your publications and names of at least two referees, and a covering letter indicating which posts you wish to be considered for, in pdf format by email to Diane Hazell (&lt;a href=&#34;mailto:dsu21@eng.cam.ac.uk&#34;&gt;dsu21@eng.cam.ac.uk&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Applications should be sent so as to reach us not later than &lt;strong&gt;25 November 2013&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quote Reference: NM01955 (Posts 1 and 2), or NM01954 (Post 3).&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taught courses</title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/taught_courses/</link>
+      <pubDate>Fri, 26 Aug 2022 00:03:42 +0530</pubDate>
+      <guid>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/taught_courses/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/teaching/3f3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3F3: SIGNAL AND  PATTERN PROCESSING&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt; Description of the course&amp;gt;, taught by Zoubin Ghahramani. &lt;a href=&#34;http://mlg.eng.cam.ac.uk/teaching/3f3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course web page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.eng.cam.ac.uk/teaching/courses/y4/4f10.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;4F10: STATISTICAL PATTERN PROCESSING&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt; Description of the course&amp;gt;, taught by Mark Gales. &lt;a href=&#34;http://www.eng.cam.ac.uk/teaching/courses/y4/4f10.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course web page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://mlg.eng.cam.ac.uk/teaching/4f13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;4F13: MACHINE LEARNING&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt; Description of the course&amp;gt;, taught by Zoubin Ghahramani and Carl Rasmussen. &lt;a href=&#34;http://mlg.eng.cam.ac.uk/teaching/4f13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course web page&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1821,9 +1441,41 @@ Link to the Machine Learning group website: &lt;a href=&#34;http://mlg.eng.cam.a
     
     <item>
       <title></title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/faculty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/faculty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/graduate-student/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/graduate-student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/past-member/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/past-member/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/post-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/post-docs/</guid>
       <description></description>
     </item>
     

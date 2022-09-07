@@ -1,0 +1,930 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Cambridge – Tübingen PhD Fellowships in Machine Learning
+The University of Cambridge Machine Learning Group and the Max Planck Institute for Intelligent Systems Empirical Inference Department in Tübingen are two of the world’s leading centres for machine learning research." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/wowchemy.1101eb5b7d6a47eb927b8e2fdb273ec9.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    <link rel="manifest" href="/mlg.eng.cam.ac.uk/manifest.webmanifest" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/mlg.eng.cam.ac.uk/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/mlg.eng.cam.ac.uk/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
+  
+  <meta property="og:site_name" content="Cambridge Machine Learning Group RSS2 Feed" />
+  <meta property="og:url" content="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/" />
+  <meta property="og:title" content="Cambridge – Tübingen PhD Fellowships in Machine Learning | Cambridge Machine Learning Group RSS2 Feed" />
+  <meta property="og:description" content="Cambridge – Tübingen PhD Fellowships in Machine Learning
+The University of Cambridge Machine Learning Group and the Max Planck Institute for Intelligent Systems Empirical Inference Department in Tübingen are two of the world’s leading centres for machine learning research." /><meta property="og:image" content="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_300x300_fit_lanczos_3.png" />
+    <meta property="twitter:image" content="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-08-26T00:03:42&#43;05:30"
+      />
+    
+    <meta property="article:modified_time" content="2022-08-26T00:03:42&#43;05:30">
+  
+
+  
+
+
+
+  
+
+  
+
+
+  <title>Cambridge – Tübingen PhD Fellowships in Machine Learning | Cambridge Machine Learning Group RSS2 Feed</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="4cfd3726fe6a1c6b21e35822a1bdb3f4" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-init.min.1ee5462d74c6c0de1f8881b384ecc58d.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+               
+
+<header class="header--fixed">
+    <div class="top-bar">
+        <div class="top-bar-left">
+            <ul>
+                <li><a href="">Admin</a></li>
+                <li><a href="">Internal wiki</a></li>
+            </ul>
+        </div>
+        <div class="top-bar-right">
+            <ul>
+                <li><a href="">RSS</a></li>
+
+                <li class="nav-item">
+                    <a class="nav-link js-search" href="#" aria-label=""><i class="fas fa-search" aria-hidden="true"></i></a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+        <div class="container-xl">
+
+            
+            <div class="d-none d-lg-inline-flex">
+                <a class="navbar-brand" href="/mlg.eng.cam.ac.uk/%20/%20"><img src="/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_0x70_resize_lanczos_3.png" alt="Cambridge Machine Learning Group RSS2 Feed"
+            
+            ></a>
+            </div>
+             
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="">
+      <span><i class="fas fa-bars"></i></span>
+      </button>  
+            <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+                <a class="navbar-brand" href="/mlg.eng.cam.ac.uk/%20/%20"><img src="/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_0x70_resize_lanczos_3.png" alt="Cambridge Machine Learning Group RSS2 Feed"
+          
+          ></a>
+            </div>
+            
+
+            
+            
+            <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+                
+                <ul class="navbar-nav d-md-inline-flex">
+                         
+                           
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/" ><span>Home</span></a>
+                    </li>
+
+                            
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/about-us" ><span>About us</span></a>
+                    </li>
+
+                          
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/post" ><span>News</span></a>
+                    </li>
+
+                            
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/publication" ><span>Publications</span></a>
+                    </li>
+
+                      
+                    <li class="nav-item dropdown">
+                        <a href="../people" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Group members</span><span class="caret"></span>
+            </a>
+                        <div class="dropdown-menu">
+                            
+                            <a class="dropdown-item" href="/mlg.eng.cam.ac.uk/people/" ><span>Group members</span></a> 
+                            <a class="dropdown-item" href="/mlg.eng.cam.ac.uk/faculty/" ><span>Faculty</span></a> 
+                            <a class="dropdown-item" href="/mlg.eng.cam.ac.uk/post-docs/" ><span>Post Docs</span></a> 
+                            <a class="dropdown-item" href="/mlg.eng.cam.ac.uk/graduate-student/" ><span>Graduate Students</span></a> 
+                            <a class="dropdown-item" href="/mlg.eng.cam.ac.uk/past-member/" ><span>Previous Members</span></a> 
+                        </div>
+                    </li>
+
+                            
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning" ><span>PhD Admissions</span></a>
+                    </li>
+
+                       
+                </ul>
+            </div>
+            
+
+            <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+                        
+
+            </ul>
+
+        </div>
+        
+    </nav>
+</header>
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Cambridge – Tübingen PhD Fellowships in Machine Learning</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p><strong>Cambridge – Tübingen PhD Fellowships in Machine Learning</strong></p>
+<p>The University of Cambridge Machine Learning Group and the Max Planck Institute for Intelligent Systems Empirical Inference Department in Tübingen are two of the world’s leading centres for machine learning research. In 2014, we launched a new and exciting initiative whereby a small group of select PhD candidates are jointly supervised at both institutions. The principal supervisors are Zoubin Ghahramani, Carl Rasmussen, Neil Lawrence, Richard Turner, Jose Miguel Hernandez-Lobato, Adrian Weller and David Krueger at Cambridge University, and Bernhard Schoelkopf and other research group leaders at the Max Planck Institute in Tübingen.</p>
+<p>This is a unique programme, and admission in the last years was highly competitive. We encourage applications from outstanding candidates with academic backgrounds in Mathematics, Physics, Computer Science, Engineering and related fields, and a keen interest in doing basic research in machine learning and its scientific applications. There are no additional restrictions on the topic of the PhD but for further information on our current research areas please consult our webpages at <a href="http://mlg.eng.cam.ac.uk" target="_blank" rel="noopener">http://mlg.eng.cam.ac.uk</a> and <a href="http://ei.is.tuebingen.mpg.de" target="_blank" rel="noopener">http://ei.is.tuebingen.mpg.de</a>.</p>
+<p>The overall duration of the PhD will be four years, with roughly three years spent at one location, and one year spent at the other location, including initial coursework at the University of Cambridge. Successful PhDs will be officially granted by the University of Cambridge.</p>
+<p>We plan to offer funding for up to two PhD Fellowships covering university tuition fees (at Cambridge EU rates) and a stipend of approximately 17000 Euros (about 14500 GBP) per year. We acknowledge generous financial support from Microsoft, Facebook and Amazon.</p>
+<p>Applicants from Europe don’t need an employment visa, for those who apply from non-EU countries it is necessary to inform themselves at the embassy of their country about visa procedures.</p>
+<p>We appreciate that Brexit leads to increased uncertainty when it comes to studying in the UK. Comprehensive information regarding issues surrounding Brexit, such as immigration, fees, and travel, is available on <a href="https://www.eu.admin.cam.ac.uk" target="_blank" rel="noopener">https://www.eu.admin.cam.ac.uk</a> and updated frequently. In particular, we would like to reassure prospective Cambridge-Tuebingen students that appropriate funding will be available to cover living expenses both in Cambridge and in Tuebingen.</p>
+<p>Applications to the Cambridge – Tübingen PhD Fellowships should be made by first applying to the Cambridge PhD programme in Advanced Machine Learning as described <a href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/contact/" target="_blank" rel="noopener">here</a>.</p>
+<p><strong>Applicants should also make sure that they apply for “Cambridge Trusts”, “Gates Cambridge”, and “Other Research Councils” funding by ticking the relevant boxes in the application form.</strong></p>
+<p>Once you have completed the application to the Cambridge PhD Programme, and before actually submitting it, <strong>you should download the application and send a copy to <a href="mailto:camtue@is.mpg.de">camtue@is.mpg.de</a>. It is important to download the application before submitting it through the academic portal because the application is no longer available once it is submitted.</strong> Please use the subject line “Cambridge-Tuebingen PhD fellowship” in your email to <a href="mailto:camtue@is.mpg.de">camtue@is.mpg.de</a>. <strong>Please arrange for a cv, a motivation letter, BSc. and MSc. transcripts, and two reference letters of your application to the Cambridge PhD programme in Advanced Machine Learning to be sent also to <a href="mailto:camtue@is.mpg.de">camtue@is.mpg.de</a>.</strong></p>
+<p>The hard deadline for formal applications is <strong>December 1, 2021 11:59pm AOE.</strong></p>
+<p>Interviews will take place in Tübingen from <strong>January 10 to January 11, 2022.</strong></p>
+<p>The University of Cambridge is committed in its pursuit of academic excellence to equality of opportunity and to a proactive and inclusive approach to equality, which supports and encourages all under-represented groups, promotes an inclusive culture, and values diversity.</p>
+<p>The Max-Planck Society is committed to increasing the number of individuals with disabilities in its workforce and therefore encourages applications from such qualified individuals. Furthermore, the Max Planck Society seeks to increase the number of women in those areas where they are underrepresented and therefore explicitly encourages women to apply.</p>
+<p>We look forward to receiving your applications.</p>
+<div class ="row">
+    <div class="col-lg-4">
+    <p>Zoubin Ghahramani </p>
+    <p>University of Cambridge</p>
+    </div>
+    <div class="col-lg-4">
+    <p>Bernhard Schölkopf</p>
+    <p>Max Planck Institute for Intelligent Systems</p>
+    </div>
+</div>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/&amp;text=Cambridge%20%e2%80%93%20T%c3%bcbingen%20PhD%20Fellowships%20in%20Machine%20Learning" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/&amp;t=Cambridge%20%e2%80%93%20T%c3%bcbingen%20PhD%20Fellowships%20in%20Machine%20Learning" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Cambridge%20%e2%80%93%20T%c3%bcbingen%20PhD%20Fellowships%20in%20Machine%20Learning&amp;body=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/&amp;title=Cambridge%20%e2%80%93%20T%c3%bcbingen%20PhD%20Fellowships%20in%20Machine%20Learning" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Cambridge%20%e2%80%93%20T%c3%bcbingen%20PhD%20Fellowships%20in%20Machine%20Learning%20http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/&amp;title=Cambridge%20%e2%80%93%20T%c3%bcbingen%20PhD%20Fellowships%20in%20Machine%20Learning" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+    
+  
+    
+  
+    
+    
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © Copyright - <a href="#">Cambridge Machine Learning Group</a> - <a href="#">Privacy policy</a>
+  </p>
+  
+
+
+  
+    <p class="powered-by">
+      
+      
+      
+        
+        
+        
+        
+        
+        
+        Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+      
+    </p>
+  </footer>
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/mlg.eng.cam.ac.uk/js/vendor-bundle.min.46271ef31da3f018e9cd1b59300aa265.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/mlg.eng.cam.ac.uk/en/js/wowchemy.min.a6238d5886fa4a2f7cf92df25709326f.js"></script>
+
+
+
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

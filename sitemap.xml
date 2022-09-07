@@ -4,8 +4,6 @@
   
   
   <url>
-    <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/newpeople/newpeople/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/event/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -14,9 +12,13 @@
   <url>
     <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/about-us/</loc><lastmod>2022-08-26T00:03:42+05:30</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/test-page/</loc><lastmod>2022-08-26T00:03:42+05:30</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/</loc><lastmod>2022-08-26T00:03:42+05:30</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/test/</loc><lastmod>2022-08-25T01:40:32+05:30</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning/</loc><lastmod>2022-08-26T00:03:42+05:30</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/postdoctoral_research_associate/</loc><lastmod>2022-08-26T00:03:42+05:30</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/taught_courses/</loc><lastmod>2022-08-26T00:03:42+05:30</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/post/9-papers-with-mlg-authors-to-appear-at-iclr-2020-and-aistats-2020/</loc><lastmod>2020-02-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -212,7 +214,15 @@
   <url>
     <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/contact/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/faculty/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/graduate-student/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/past-member/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/people/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/post-docs/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/adam-scibior/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -269,8 +279,6 @@
     <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/david-burt/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/david-duvenaud/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/david-j.c.-mackay/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/david-janz/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -375,8 +383,6 @@
     <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/mohamed-shakir/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/neil-houlsby/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/newpeople/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/author/niki-kilbertus/</loc><changefreq>weekly</changefreq></url>
   <url>

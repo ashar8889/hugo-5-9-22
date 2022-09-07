@@ -1,0 +1,938 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="The Cambridge Machine Learning Group (MLG) runs a PhD programme in Advanced Machine Learning. The supervisors are Jose Miguel Hernandez-Lobato, Carl Rasmussen, Richard E. Turner, Adrian Weller, Hong Ge and David Krueger." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/wowchemy.1101eb5b7d6a47eb927b8e2fdb273ec9.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/mlg.eng.cam.ac.uk/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    <link rel="manifest" href="/mlg.eng.cam.ac.uk/manifest.webmanifest" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/mlg.eng.cam.ac.uk/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/mlg.eng.cam.ac.uk/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
+  
+  <meta property="og:site_name" content="Cambridge Machine Learning Group RSS2 Feed" />
+  <meta property="og:url" content="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning/" />
+  <meta property="og:title" content="PhD Programme in Advanced Machine Learning | Cambridge Machine Learning Group RSS2 Feed" />
+  <meta property="og:description" content="The Cambridge Machine Learning Group (MLG) runs a PhD programme in Advanced Machine Learning. The supervisors are Jose Miguel Hernandez-Lobato, Carl Rasmussen, Richard E. Turner, Adrian Weller, Hong Ge and David Krueger." /><meta property="og:image" content="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_300x300_fit_lanczos_3.png" />
+    <meta property="twitter:image" content="http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-08-26T00:03:42&#43;05:30"
+      />
+    
+    <meta property="article:modified_time" content="2022-08-26T00:03:42&#43;05:30">
+  
+
+  
+
+
+
+  
+
+  
+
+
+  <title>PhD Programme in Advanced Machine Learning | Cambridge Machine Learning Group RSS2 Feed</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="1eb323846456b8ebff0c828b2d4b7fa0" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-init.min.1ee5462d74c6c0de1f8881b384ecc58d.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+               
+
+<header class="header--fixed">
+    <div class="top-bar">
+        <div class="top-bar-left">
+            <ul>
+                <li><a href="">Admin</a></li>
+                <li><a href="">Internal wiki</a></li>
+            </ul>
+        </div>
+        <div class="top-bar-right">
+            <ul>
+                <li><a href="">RSS</a></li>
+
+                <li class="nav-item">
+                    <a class="nav-link js-search" href="#" aria-label=""><i class="fas fa-search" aria-hidden="true"></i></a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+        <div class="container-xl">
+
+            
+            <div class="d-none d-lg-inline-flex">
+                <a class="navbar-brand" href="/mlg.eng.cam.ac.uk/%20/%20"><img src="/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_0x70_resize_lanczos_3.png" alt="Cambridge Machine Learning Group RSS2 Feed"
+            
+            ></a>
+            </div>
+             
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="">
+      <span><i class="fas fa-bars"></i></span>
+      </button>  
+            <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+                <a class="navbar-brand" href="/mlg.eng.cam.ac.uk/%20/%20"><img src="/mlg.eng.cam.ac.uk/media/logo_hu09f54101120f3874eab4ed13c8fe6ea8_97893_0x70_resize_lanczos_3.png" alt="Cambridge Machine Learning Group RSS2 Feed"
+          
+          ></a>
+            </div>
+            
+
+            
+            
+            <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+                
+                <ul class="navbar-nav d-md-inline-flex">
+                         
+                           
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/" ><span>Home</span></a>
+                    </li>
+
+                            
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/about-us" ><span>About us</span></a>
+                    </li>
+
+                          
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/post" ><span>News</span></a>
+                    </li>
+
+                            
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/publication" ><span>Publications</span></a>
+                    </li>
+
+                      
+                    <li class="nav-item dropdown">
+                        <a href="../people" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Group members</span><span class="caret"></span>
+            </a>
+                        <div class="dropdown-menu">
+                            
+                            <a class="dropdown-item" href="/mlg.eng.cam.ac.uk/people/" ><span>Group members</span></a> 
+                            <a class="dropdown-item" href="/mlg.eng.cam.ac.uk/faculty/" ><span>Faculty</span></a> 
+                            <a class="dropdown-item" href="/mlg.eng.cam.ac.uk/post-docs/" ><span>Post Docs</span></a> 
+                            <a class="dropdown-item" href="/mlg.eng.cam.ac.uk/graduate-student/" ><span>Graduate Students</span></a> 
+                            <a class="dropdown-item" href="/mlg.eng.cam.ac.uk/past-member/" ><span>Previous Members</span></a> 
+                        </div>
+                    </li>
+
+                            
+                              
+
+                    <li class="nav-item">
+                        <a class="nav-link " href="/mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning" ><span>PhD Admissions</span></a>
+                    </li>
+
+                       
+                </ul>
+            </div>
+            
+
+            <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+                        
+
+            </ul>
+
+        </div>
+        
+    </nav>
+</header>
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>PhD Programme in Advanced Machine Learning</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>The Cambridge Machine Learning Group (MLG) runs a PhD programme in Advanced Machine Learning. The supervisors are <a href="https://jmhl.org/" target="_blank" rel="noopener">Jose Miguel Hernandez-Lobato</a>, <a href="http://mlg.eng.cam.ac.uk/carl/" target="_blank" rel="noopener">Carl Rasmussen</a>, <a href="http://cbl.eng.cam.ac.uk/Public/Turner/Turner" target="_blank" rel="noopener">Richard E. Turner</a>, <a href="http://mlg.eng.cam.ac.uk/adrian/" target="_blank" rel="noopener">Adrian Weller</a>, <a href="http://mlg.eng.cam.ac.uk/hong/" target="_blank" rel="noopener">Hong Ge</a> and <a href="https://mila.quebec/en/person/david-scott-krueger/" target="_blank" rel="noopener">David Krueger</a>. <a href="http://mlg.eng.cam.ac.uk/zoubin/" target="_blank" rel="noopener">Zoubin Ghahramani</a> is currently on academic leave and not accepting new students at this time.</p>
+<p>We encourage applications from outstanding candidates with academic backgrounds in Mathematics, Physics, Computer Science, Engineering and related fields, and a keen interest in doing basic research in machine learning and its scientific applications. There are no additional restrictions on the topic of the PhD but for further information on our current research areas please consult our webpages at <a href="http://mlg.eng.cam.ac.uk" target="_blank" rel="noopener">http://mlg.eng.cam.ac.uk</a>.</p>
+<p>The typical duration of the PhD will be four years.</p>
+<p>Applicants must formally apply through the <a href="https://www.graduate.study.cam.ac.uk/applicant-portal" target="_blank" rel="noopener">Applicant Portal</a> at the University of Cambridge by the deadline, indicating “PhD in Engineering” as the course (supervisor Hernandez-Lobato, Rasmussen, Turner, and/or  Weller). Applicants that want to apply for University funding need to reply ‘Yes’ to the question ‘Apply for Cambridge Scholarships’. See <a href="http://www.admin.cam.ac.uk/students/gradadmissions/prospec/apply/deadlines.html" target="_blank" rel="noopener">http://www.admin.cam.ac.uk/students/gradadmissions/prospec/apply/deadlines.html</a> for details.  Note that applications will not be complete until all the required material has been uploaded (including reference letters) and we will not be able to see any application until that happens.</p>
+<p>Gates funding applicants (US or other overseas) need to fill out the dedicated Gates Cambridge Scholarships section later on the form which is sent on to the administrators of Gates funding.</p>
+<p><strong>Deadline for PhD Application: noon December 2, 2021</strong></p>
+<p>Applications from outstanding individuals may be considered after this time, but applying later may adversely impact your chances for both admission and funding.</p>
+<h3 id="further-information-about-completing-the-admissions-forms">FURTHER INFORMATION ABOUT COMPLETING THE ADMISSIONS FORMS:</h3>
+<p>The Machine Learning Group is based in the Department of Engineering, not Computer Science.</p>
+<p>We will assess your application on three criteria:</p>
+<p>1    <strong>Academic performance</strong> (make sure to ensure evidence for strong academic achievement e.g. position in year, awards etc.)
+2   <strong>references</strong> (clearly your references will need to be strong, they should also mention evidence of excellence as quotes will be drawn from them)
+3   <strong>research</strong> (detail your research experience, especially that which relates to machine learning)</p>
+<p>You will also need to put together a research proposal. We do not offer individual support for this. It is part of the application assessment, i.e. ascertaining whether you can write about a research area in a sensible way and pose interesting questions. It is not a commitment to what you will work on during your PhD. Most often PhD topics crystallise over the first year. The research proposal should be about 2 pages long and can be attached to your application (you can indicate that your proposal is attached in the 1500 character count Research Summary box). This aspect of the application does not carry a huge amount of weight so do not spend a large amount of time on it. Please also attach a recent CV to your application too.</p>
+<h3 id="information-about-the-cambridge-tuebingen-programme">INFORMATION ABOUT THE CAMBRIDGE-TUEBINGEN PROGRAMME:</h3>
+<p>We also offer a small number of PhDs on the Cambridge-Tuebingen programme. This stream is for specific candidates whose research interests are well matched to both the machine learning group in Cambridge and the MPI for Intelligent Systems in Tuebingen. For more information about the Cambridge-Tuebingen programme and how to apply see <a href="http://mlg.eng.cam.ac.uk/?page_id=1458" target="_blank" rel="noopener">here</a>. <strong>IMPORTANT: remember to download your application form before you submit so that you can send a copy to the administrators in Tuebingen directly</strong>. Note that the application deadline for the Cambridge-Tuebingen programme is December 1, 2021 11:59pm AOE.</p>
+<h2 id="what-background-do-i-need">What background do I need?</h2>
+<p>An ideal background is a top undergraduate or Masters degree in Mathematics, Physics, Computer Science, or Electrical Engineering. You should be both very strong mathematically and have an intuitive and practical grasp of computation. Successful applicants often have research experience in statistical machine learning. Shortlisted applicants are interviewed.</p>
+<h2 id="do-you-have-funding">Do you have funding?</h2>
+<p>There are a number of funding sources at Cambridge University for PhD students, including for international students. All our students receive partial or full funding for the full three years of the PhD. We do not give preference to “self-funded” students. To be eligible for funding it is important to apply early (see <a href="https://www.graduate.study.cam.ac.uk/finance/funding" target="_blank" rel="noopener">https://www.graduate.study.cam.ac.uk/finance/funding</a> – current deadlines are 10 October for US students, and 5 December for others). <strong>Also make sure you tick the box on the application saying you wish to be considered for funding!</strong></p>
+<p>If you are applying to the Cambridge-Tuebingen programme, note that this source of funding will not be listed as one of the official funding sources, but if you apply to this programme, please tick the other possible sources of funding if you want to maximise your chances of getting funding from Cambridge.</p>
+<h2 id="what-is-my-likelihood-of-being-admitted">What is my likelihood of being admitted?</h2>
+<p>Because we receive so many applications, unfortunately we can’t admit many excellent candidates, even some who have funding. Successful applicants tend to be among the very top students at their institution, have very strong mathematics backgrounds, references, and have some research experience in statistical machine learning.</p>
+<h2 id="do-i-have-to-contact-one-of-the-faculty-members-first-or-can-i-apply-formally-directly">Do I have to contact one of the faculty members first or can I apply formally directly?</h2>
+<p>It is not necessary, but if you have doubts about whether your background is suitable for the programme, or if you have questions about the group, you are welcome to contact one of the faculty members directly. Due to their high email volume you may not receive an immediate response but they will endeavour to get back to you as quickly as possible. It is important to make your official application to <a href="http://www.admin.cam.ac.uk/students/gradadmissions/prospec/" target="_blank" rel="noopener">Graduate Admissions</a> at Cambridge before the funding deadlines, even if you don’t hear back from us; otherwise we may not be able to consider you.</p>
+<h2 id="do-you-take-masters-students-or-part-time-phd-students">Do you take Masters students, or part-time PhD students?</h2>
+<p>We generally don’t admit students for a part-time PhD. We also don’t usually admit students just for a pure-research Masters in machine learning , except for specific programs such as the Churchill and Marshall scholarships. However, please do note that we run a one-year taught Master’s Programme: The <a href="http://www.mlsalt.eng.cam.ac.uk/Main/WebHome" target="_blank" rel="noopener">MPhil in Machine Learning, and Machine Intelligence</a>. You are welcome to apply directly to this.</p>
+<h2 id="what-department--course-should-i-indicate-on-my-application-form">What Department / course should I indicate on my application form?</h2>
+<p>This machine learning group is in the Department of Engineering. The degree you would be applying for is a PhD in Engineering (not Computer Science or Statistics).</p>
+<h2 id="how-long-does-a-phd-take">How long does a PhD take?</h2>
+<p>A typical PhD from our group takes 3-4 years. The first year requires students to pass some courses and submit a first-year research report. Students must submit their PhD before the 4th year.</p>
+<h2 id="what-research-topics-do-you-have-projects-on">What research topics do you have projects on?</h2>
+<p>We don’t generally pre-specify projects for students. We prefer to find a research area that suits the student. For a sample of our research, you can check <a href="http://mlg.eng.cam.ac.uk/?page_id=381" target="_blank" rel="noopener">group members’ personal pages</a> or our <a href="http://mlg.eng.cam.ac.uk/pub/" target="_blank" rel="noopener">research publications page.</a></p>
+<h2 id="what-are-the-career-prospects-for-phd-students-from-your-group">What are the career prospects for PhD students from your group?</h2>
+<p>Students and postdocs from the group have moved on to excellent positions both in academia and industry. Have a look at our list of recent alumni on the <a href="http://mlg.cam.ac.uk/" target="_blank" rel="noopener">Machine Learning group webpage</a>. Research expertise in machine learning is in very high demand these days.</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning/&amp;text=PhD%20Programme%20in%20Advanced%20Machine%20Learning" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning/&amp;t=PhD%20Programme%20in%20Advanced%20Machine%20Learning" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=PhD%20Programme%20in%20Advanced%20Machine%20Learning&amp;body=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning/&amp;title=PhD%20Programme%20in%20Advanced%20Machine%20Learning" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=PhD%20Programme%20in%20Advanced%20Machine%20Learning%20http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=http://sagmeticinfotech.com/mlg.eng.cam.ac.uk/phd_programme_in_advanced_machine_learning/&amp;title=PhD%20Programme%20in%20Advanced%20Machine%20Learning" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+    
+  
+    
+  
+    
+    
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © Copyright - <a href="#">Cambridge Machine Learning Group</a> - <a href="#">Privacy policy</a>
+  </p>
+  
+
+
+  
+    <p class="powered-by">
+      
+      
+      
+        
+        
+        
+        
+        
+        
+        Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+      
+    </p>
+  </footer>
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/mlg.eng.cam.ac.uk/js/vendor-bundle.min.46271ef31da3f018e9cd1b59300aa265.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/mlg.eng.cam.ac.uk/en/js/wowchemy.min.a6238d5886fa4a2f7cf92df25709326f.js"></script>
+
+
+
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/mlg.eng.cam.ac.uk/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
